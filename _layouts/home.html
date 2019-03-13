@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<div class="home">
+  <header class="post-header">
+    <img src="/assets/img/m4s-header-short2.jpeg">
+    <div class="wrapper">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+      <p class="big">{{ page.intro }}</p>
+      <p class="big fancy">by Matt Henderson</p>
+    </div>
+  </header>
+
+  <div class="post-content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </div>
+
+  <div class="section alt" id="toc">
+    <div class="wrapper">
+      <h2>Table of Contents</h2>
+
+      <ol class="toc">
+      {% for chapter in site.chapters %}
+        <li><a href="{{chapter.url}}">{{ chapter.title }}</a></li>
+      {% endfor %}
+      </ol>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="wrapper">
+      {% for testimonial in site.data.testimonials %}
+        {% if forloop.index < 3 %}
+          <div class="testimonial">
+            <p>{{ testimonial.quote }}</p>
+            <div class="testimonial-source">
+              <div><img src="/assets/img/{{ testimonial.image }}"></div>
+              <div>
+                <strong>{{ testimonial.name }}</strong><br>
+                <small>{{ testimonial.byline }}</small>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+      <div class="post-continue">
+        <a href="/praise/">More praise for the book &rarr;</a>
+      </div>
+    </div>
+  </div>
+</div>

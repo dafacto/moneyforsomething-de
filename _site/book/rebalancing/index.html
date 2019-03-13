@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Rebalancing | Money for Something</title>
+<meta name="generator" content="Jekyll v3.8.4" />
+<meta property="og:title" content="Rebalancing" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Over time, as your individual asset classes increase and decrease in value, your allocation will shift from its target. Rebalancing brings that imbalanced allocation back in line with its target. Suppose your total portfolio value is $100 and your target allocation looks like this:" />
+<meta property="og:description" content="Over time, as your individual asset classes increase and decrease in value, your allocation will shift from its target. Rebalancing brings that imbalanced allocation back in line with its target. Suppose your total portfolio value is $100 and your target allocation looks like this:" />
+<link rel="canonical" href="http://localhost:4000/book/rebalancing/" />
+<meta property="og:url" content="http://localhost:4000/book/rebalancing/" />
+<meta property="og:site_name" content="Money for Something" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-10-12T09:39:36+02:00" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/book/rebalancing/","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/book/rebalancing/"},"description":"Over time, as your individual asset classes increase and decrease in value, your allocation will shift from its target. Rebalancing brings that imbalanced allocation back in line with its target. Suppose your total portfolio value is $100 and your target allocation looks like this:","@type":"BlogPosting","headline":"Rebalancing","dateModified":"2018-10-12T09:39:36+02:00","datePublished":"2018-10-12T09:39:36+02:00","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Money for Something" /><!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-32917572-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-32917572-1');
+    </script>
+</head>
+<body class="chapter"><header class="site-header" role="banner">
+  <div class="wrapper">
+    <div class="flex">
+      <div>
+        <a class="site-title" rel="author" href="/">Money for Something</a>
+        
+      </div>
+      
+        <span>Chapter 10 of 19</span>
+      
+    </div>
+    <hr class="rule reversed">
+  </div>
+</header>
+<main class="page-content" aria-label="Content">
+      
+
+<!--
+  From https://gist.github.com/budparr/3e637e575471401d01ec
+-->
+
+
+
+<article class="post">
+
+  <header class="post-header">
+    <div class="wrapper">
+      <h1 class="post-title">Rebalancing</h1>
+      <p class="big">Sell high, buy low. Without predicting the market.</p>
+    </div>
+  </header>
+
+  <div class="post-content">
+    <div class="wrapper">
+      <p>Over time, as your individual asset classes increase and decrease in value, your allocation will shift from its target. <strong>Rebalancing</strong> brings that imbalanced allocation back in line with its target. Suppose your total portfolio value is $100 and your target allocation looks like this:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Investment</th>
+      <th>Amount</th>
+      <th>Percentage of Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stocks</td>
+      <td>$50</td>
+      <td><strong>50%</strong></td>
+    </tr>
+    <tr>
+      <td>Bonds</td>
+      <td>$50</td>
+      <td><strong>50%</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>$100 (Total)</td>
+      <td>100%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Say that stocks gain 30% this year, while bonds lose 10%. At the end of the year, your portfolio will have increased in total value by 10%, to $110, but its allocation will have shifted to become:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Investment</th>
+      <th>Amount</th>
+      <th>Percentage of Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stocks</td>
+      <td>$65</td>
+      <td><strong>59%</strong></td>
+    </tr>
+    <tr>
+      <td>Bonds</td>
+      <td>$45</td>
+      <td><strong>41%</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>$110 (Total)</td>
+      <td>100%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>By rebalancing, we sell $10 of stocks and buy $10 of bonds, bringing the overall allocation back to its original target.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Investment</th>
+      <th>Amount</th>
+      <th>Percentage of Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stocks</td>
+      <td>$55</td>
+      <td><strong>50%</strong></td>
+    </tr>
+    <tr>
+      <td>Bonds</td>
+      <td>$55</td>
+      <td><strong>50%</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>$110 (Total)</td>
+      <td>100%</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="why-bother-rebalancing">Why bother rebalancing?</h2>
+
+<p>By continually selling what’s gone up, and buying what’s gone down, you are in the long run buying more of what is cheap and less of what is expensive, increasing returns while preserving the “risk versus return” characteristics of your target asset allocation.</p>
+
+<h2 id="how-often-should-you-rebalance">How often should you rebalance?</h2>
+
+<p>About once per year should be fine, or when any asset class is 20% off its target. For example, for a 50% stock allocation, we’d rebalance if that asset class grew to 60% (50% x 1.2) or dropped to 40% (50% x 0.8).</p>
+
+    </div>
+  </div>
+
+  
+    <footer class="post-footer">
+      <div class="wrapper">
+        <h5 class="caps">Key takeaway</h5>
+        <p class="big">Periodic rebalancing preserves the risk vs return characteristics of our asset allocation, and can increase returns.</p>
+
+        
+          <div class="post-continue">
+            Next: <a href="/book/passive-investments/">Passive investments &rarr;</a>
+          </div>
+        
+      </div>
+    </footer>
+  
+</article>
+
+<a class="chapter-link prev" href="/book/asset-allocation/"><strong>&larr;</strong><span>Asset allocation</span></a>
+<a class="chapter-link next" href="/book/passive-investments/"><span>Passive investments</span><strong>&rarr;</strong></a>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Money for Something</li><li><a class="u-email" href="mailto:matt@dafacto.com">matt@dafacto.com</a></li></ul><ul class="social-media-list"><!--<li><a href="https://github.com/dafacto"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">dafacto</span></a></li>--><li><a href="https://www.twitter.com/dafacto"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">dafacto</span></a></li></ul>
+<div class="flex" style="justify-content:flex-start;">
+          <div id="cd572"></div>
+          <div id="cd588" style="margin-left:10px;"></div>
+        </div>
+        <script>
+          !function(c){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.onload=c,t.src="//lab.subinsb.com/projects/francium/cryptodonate/widget.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}(function(){
+            Fr.loadCD("cd572", {
+              coin: "bitcoin",
+              address: "3LyymFbU9zqSVWxMRB1tDcj5BuT4k7P7hr",
+              buttonClass: "dark",
+              dialogClass: "dark",
+            });
+          });
+        </script>
+
+        <script>
+          !function(c){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.onload=c,t.src="//lab.subinsb.com/projects/francium/cryptodonate/widget.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}(function(){
+            Fr.loadCD("cd588", {
+              coin: "monero",
+              address: "4AfZrQ1kvq6dP5Gm1jFRHRHALGmCMR6nAP4KK5mgHt4VfbAY1XzS1jyYiBASTabNGiXXEf8mBMtZq9qQ6VrTJcJYVt1LzoD",
+              buttonClass: "dark",
+              dialogClass: "dark",
+            });
+          });
+        </script>
+
+      </div>
+
+      
+      <div class="footer-col footer-col-2">
+        <ul class="nav">
+        
+          
+          <li><a href="/about/">About the Author</a></li>
+          
+        
+          
+          <li><a href="/praise/">Praise for the Book</a></li>
+          
+        
+          
+          <li><a href="/portfolios/">Portfolios</a></li>
+          
+        
+          
+          <li><a href="/books/">Books & Podcasts</a></li>
+          
+        
+          
+          <li><a href="/faq/">FAQ</a></li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <ul class="nav">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+          <li><a href="/blog/">Blog</a></li>
+          
+        
+          
+          <li><a href="/brokerages/">Brokerages</a></li>
+          
+        
+          
+          <li><a href="/calculator/">Investment Calculator</a></li>
+          
+        
+          
+          <li><a href="/copyright/">Copyright Notice</a></li>
+          
+        
+          
+          <li><a href="/contact/">Contact</a></li>
+          
+        
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

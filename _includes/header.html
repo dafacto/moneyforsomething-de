@@ -1,0 +1,18 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <div class="flex">
+      <div>
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        {% if page.layout == 'post' %}
+          &nbsp;&middot;&nbsp; <a href="{{ "/" | relative_url }}blog">Blog</a>
+        {% endif %}
+      </div>
+      {% if page.chapter %}
+        <span>Chapter {{ page.chapter }} of {{ site.chapters.size }}</span>
+      {% else %}
+        <a href="/book/introduction/">Read the book &rarr;</a>
+      {% endif %}
+    </div>
+    <hr class="rule reversed">
+  </div>
+</header>

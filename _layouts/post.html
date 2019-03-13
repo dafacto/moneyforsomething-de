@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+{% if page.collection %}
+  {% assign links = site[page.collection]  %}
+{% endif %}
+
+<!--
+  From https://gist.github.com/budparr/3e637e575471401d01ec
+-->
+
+{% for link in links %}
+  {% if link.title == page.title %}
+      {% unless forloop.first %}
+          {% assign prev = tmpprev %}
+      {% endunless %}
+      {% unless forloop.last %}
+          {% assign next = links[forloop.index] %}
+      {% endunless %}
+  {% endif %}
+  {% assign tmpprev = link %}
+{% endfor %}
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <div class="wrapper">
+      <p class="post-meta">
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {{ page.date | date: date_format }}
+        </time>
+        {%- if page.author -%}
+          • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+        {%- endif -%}
+      </p>
+      <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    </div>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <div class="wrapper">
+      {{ content }}
+      {% if next %}
+        <div class="post-continue">
+          Next: <a href="{{ next.url}}">{{ next.title }} &rarr;</a>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
