@@ -1,22 +1,23 @@
 ---
 layout: chapter
-title: Introduction/Einführung
+title: Einführung
 permalink: /book/introduction/
 chapter: 1
 img_header: header-01.png
 img_footer:
-takeaway: Everyone should be investing.Jeder sollte investieren.
-intro: Get ready to change your life! Mach dich bereit dein Leben zu ändern!
+takeaway: Jeder sollte investieren.
+intro: Mach dich bereit dein Leben zu ändern!
 ---
 
-Growing up in a family of modest means, I watched my parents spend much of their lives working to pay the bills. When I was 15, I got a job at a grocery store and began working long hours to pay my own bills, often wondering whether the choice of how I spend my time would forever be tied to the need to earn money.
+Ich komme aus einer Familie mit beschränkten Mitteln. So konnte ich meine Eltern beobachten, wie sie einen Großteil Ihrer Lebenszeit damit verbrachten zu arbeiten, um die Rechnungen zu bezahlen. 
+Mit 15 habe ich einen Job in einem Supermarkt bekommen und dort viele Stunden gearbeitet, um meine eigenen Rechnungen zu bezahlen. Oft hab ich mich dort gefragt, ob die Wahl wie ich meine Zeit verbringen möchte von nun an und für immer daran gebunden ist Geld zu verdienen.
 
-The few people I knew who were financially independent had either inherited their wealth, or had started successful companies. The latter told me that, in all honesty, some luck was involved and that the majority of companies fail.
+Die paar Leute, die ich kannte, die finanziell frei waren, hatten entweder geerbt oder erfolgreiche Unternehmen gestartet. Also war – vor allem bei den erfolgreichen Unternehmen – etwas Glück mit dabei. Und dazu kommt noch, dass ein Großteil aller Unternehmen irgendwann aufgeben.
 
-Hoping not to rely on luck, I began reading books about personal investment, and what I discovered was very exciting—*practically anyone can achieve financial freedom*. I put the principles into practice, and over the next 15 years confirmed that they work!
+Auf Glück wollte ich mich nicht verlassen. So habe ich begonnen Bücher über persönliches Investieren gelesen. Was ich dort herausfand war unglaublich aufregend: *Praktisch jeder kann finanziell frei werden*. Die Prinzipien habe ich umgesetzt und so in den nächsten 15 Jahren bestätigt, dass sie funktionieren!
 
-It seems profoundly important that the path to financial freedom is so accessible—just by following a set of basic principles, with discipline. At the same time, it seems tragic that so many never get there, simply because they are unaware.
+Es scheint zutiefst wichtig, dass der Weg zur finanziellen Freiheit leicht erreichbar ist. Man muss nur einigen einfachen Prinzipien diszipliniert folgen. Gleichzeitig ist es tragisch wenn Viele dies niemals erreichen. Einfach nur weil es Ihnen nicht bewusst ist.
 
-**That’s why I wrote this guide.**
+**Darum habe ich diesen Leitfaden geschrieben.**
 
-The problem with many books about personal investing is that they are too long and complex. The basic message that *everyone should be investing* gets lost in discussion of choices and optimization. My approach in this guide is to present the core principles as concisely as possible—and in the process motivate and convince you to get started today.
+Die meisten Bücher über persönliches Investieren haben ein Problem. Sie sind zu umfangreich und komplex. Der einfache Appel *„Jeder sollte investieren“* geht in einer Diskussion über Optimierung und Investitionsmöglichkeiten verloren. Mein Ansatz in diesem Leitfaden ist es die Kernprinzipien so gewissenhaft wie möglich aufzuzeigen. Damit will ich dich motivieren und überzeugen noch heute anzufangen. 
