@@ -5,7 +5,7 @@ chapter: 3
 permalink: /book/what-is-financial-freedom/
 img_header: header-03.png
 img_footer: summary-03.png
-takeaway: Finanzielle Freiheit bedeutet genug investiert zu haben, um deine jährlichen Ausgaben zu decken.
+takeaway: Finanzielle Freiheit bedeutet genug investiert zu haben, um die jährlichen Ausgaben zu decken.
 intro: Es geht nicht darum ein Bazillionär zu sein.
 ---
 
