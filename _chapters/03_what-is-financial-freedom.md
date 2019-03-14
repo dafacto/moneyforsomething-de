@@ -1,32 +1,32 @@
 ---
 layout: chapter
-title: What is financial freedom?
+title: Was ist finanzielle Freiheit?
 chapter: 3
 permalink: /book/what-is-financial-freedom/
 img_header: header-03.png
 img_footer: summary-03.png
-takeaway: Financial freedom is having enough invested savings to cover your annual expenses.
-intro: It’s not about being a bazillionaire.
+takeaway: Finanzielle Freiheit bedeutet genug investiert zu haben, um deine jährlichen Ausgaben zu decken.
+intro: Es geht nicht darum ein Bazillionär zu sein.
 ---
 
-Since this book is about financial *freedom*, it’s important to understand exactly what we mean by that.
+Da es in diesem Ratgeber um finanzielle *Freiheit* geht, ist es wichtig genau zu verstehen, was wir damit meinen.
 
-## The “25 times” rule
+## Die 25er-Regel
 
-There’s a rule of thumb which says that if you withdraw no more than 4% of your invested savings each year, it’s statistically unlikely you’ll ever run out of money.
+Es gibt eine Faustregel zur finanziellen Freiheit: Wenn man jährlich nicht mehr als 4% seiner investierten Spareinlage entnimmt, ist es statistisch unwahrscheinlich, dass man jemals ohne Geld dastehen wird.
 
-Viewed another way, once you’ve saved 25 times your annual expenses—*you are financially free*!
+Der Umkehrschluss gilt auch. Wenn du einmal das 25fache deiner jährlichen Ausgaben angespart hat —*bist du finanziell frei*! 
 
-Say you want to stop working, and need $120,000 per year to cover your expenses. In this case you’d need to save $3 million to achieve financial freedom. If you could live on $40,000 per year, you’d only need $1 million. Say you’d like to change careers and $10,000 of annual income would give you the cushion to do that, then you’d need $250,000 to achieve financial freedom.
+Nehmen wir einmal an du willst aufhören zu arbeiten und brauchst 120,000 € pro Jahr für deine Ausgaben. In diesem Fall musst du 3 Millionen € sparen, um finanzielle Freiheit zu erreichen. Wenn du von 40,000 € im Jahr leben kannst, brauchst du nur eine Millionen €. Wenn du deinen Arbeitsbereich ändern willst und 10,000 € im Jahr geben dir das finanzielle Polster dafür, würden 250,000 € ausreichen für deine finanzielle Freiheit.
 
-## It worked for me
+## Für mich hat es funktioniert
 
-At age 20, I began saving and investing a large portion of my earnings—income initially from a job at a grocery store, later from a job at a restaurant, and finally from my first job as an engineer.
+Mit 20 habe ich angefangen zu sparen und einen großen Teil meines Einkommens zu sparen. Erst von dem Supermarkt-Job, später von einem Job in einem Restaurant und schließlich von meinem ersten Job als Ingenieur.
 
-Over the subsequent 15 years, my investments earned an annualized return of 11%. By age 35, those investments had grown enough to provided the freedom I needed to quit my job and finance a new business—which ultimately allowed me to live where I wanted, doing the work I love.
+Über die folgenden 15 Jahre haben mir meine Investitionen eine durchschnittliche jährliche Rendite von 11% gebracht. Im Alter von 35 sind diese Investitionen zu einem Betrag angewachsen, der es mir die Freiheit gegeben hat meinen Job zu verlassen und die Gründung von einem neuen Unternehmen zu finanzieren. Dies hat mir ermöglicht zu leben wo ich möchte und die Arbeit zu tun, die ich liebe.
 
-## It all starts with saving
+## Es fängt mit dem Sparen an
 
-For most people, like myself, achieving financial freedom requires the *consistent and disciplined* saving of a large portion of their income, coupled with the growth that can be realized through investing.
+Für die Meisten, wie für mich, bedeutet das Erreichen von finanzieller Freiheit das *konsequente und disziplinierte* Sparen eines große Teiles des Einkommens, gekoppelt mit dem Wachstum, der durch investieren erreicht wird.
 
-If you commit to saving, the following chapters will teach you how to invest those savings, including concepts which are powerful enough to turn even modest savings into surprisingly large amounts of money.
+Wenn du dich zum Sparen entschließt, werden dir die folgenden Kapitel zeigen wie du diese Spareinlagen investieren kannst. Dazu gehören Konzepte, die stark genug sind auch kleine Spareinlagen in erstaunlich große Mengen Geld zu verwandeln.
