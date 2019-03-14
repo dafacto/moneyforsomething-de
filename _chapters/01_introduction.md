@@ -16,7 +16,7 @@ Die paar Leute, die ich kannte, die finanziell frei waren, hatten entweder geerb
 
 Auf Glück wollte ich mich nicht verlassen. So habe ich begonnen Bücher über persönliches Investieren gelesen. Was ich dort herausfand war unglaublich aufregend: *Praktisch jeder kann finanziell frei werden*. Die Prinzipien habe ich umgesetzt und so in den nächsten 15 Jahren bestätigt, dass sie funktionieren!
 
-Es scheint zutiefst wichtig, dass der Weg zur finanziellen Freiheit leicht erreichbar ist. Man muss nur einigen einfachen Prinzipien diszipliniert folgen. Gleichzeitig ist es tragisch wenn Viele dies niemals erreichen. Einfach nur weil es Ihnen nicht bewusst ist.
+Es scheint zutiefst wichtig, dass der Weg zur finanziellen Freiheit leicht erreichbar ist. Man muss nur einigen einfachen Prinzipien diszipliniert folgen. Gleichzeitig ist es tragisch, wenn Viele dies niemals erreichen. Einfach nur weil es Ihnen nicht bewusst ist.
 
 **Darum habe ich diesen Leitfaden geschrieben.**
 
