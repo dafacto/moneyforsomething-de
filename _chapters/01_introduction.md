@@ -18,6 +18,6 @@ Auf Glück wollte ich mich nicht verlassen. So habe ich begonnen Bücher über p
 
 Es scheint zutiefst wichtig, dass der Weg zur finanziellen Freiheit leicht erreichbar ist. Man muss nur einigen einfachen Prinzipien diszipliniert folgen. Gleichzeitig ist es tragisch, wenn Viele dies niemals erreichen. Einfach nur weil es Ihnen nicht bewusst ist.
 
-**Darum habe ich diesen Leitfaden geschrieben.**
+**Darum habe ich diesen Ratgeber geschrieben.**
 
-Die meisten Bücher über persönliches Investieren haben ein Problem. Sie sind zu umfangreich und komplex. Der einfache Appel *„Jeder sollte investieren“* geht in einer Diskussion über Optimierung und Investitionsmöglichkeiten verloren. Mein Ansatz in diesem Leitfaden ist es die Kernprinzipien so gewissenhaft wie möglich aufzuzeigen. Damit will ich dich motivieren und überzeugen noch heute anzufangen. 
+Die meisten Bücher über persönliches Investieren haben ein Problem. Sie sind zu umfangreich und komplex. Der einfache Appel *„Jeder sollte investieren“* geht in einer Diskussion über Optimierung und Investitionsmöglichkeiten verloren. Mein Ansatz in diesem Ratgeber ist es die Kernprinzipien so gewissenhaft wie möglich aufzuzeigen. Damit will ich dich motivieren und überzeugen noch heute anzufangen. 
