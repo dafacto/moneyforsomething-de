@@ -1,14 +1,14 @@
 ---
 layout: chapter
-title: Who this guide is for
+title: Für wen ist dieser Ratgeber?
 chapter: 2
 permalink: /book/who-is-this-guide-for/
 img_header: header-02.png
 img_footer: summary-02-short.png
-takeaway: This guide is for everyone.
-intro: Hint—it’s for you!
+takeaway: Dieser Ratgeber ist für Jeden.
+intro: Tip—Es ist für dich!
 ---
 
-Time is an essential ingredient in achieving financial freedom through the approach described in this guide. For that reason, this guide will be particularly relevant to those in their 20s, 30s and early 40s—i.e. those with enough time to experience the power of compounding returns.
+Zeit ist eine essentielle Zutat für das Erreichen von finanzieller Freiheit nach dem Ansatz von diesem Ratgeber. Aus diesem Grund ist dieser Ratgeber besonders relevant für Leute in Ihren 20ern, 30ern und den frühen 40ern. Diese haben genug Zeit, um die Kraft des Zinseszins zu erfahren.
 
-At the same time, inflation will erode the value of savings kept in a bank account, and the investing approach discussed here has historically provided a return above inflation. Regardless of age, everyone should be interested in at least preserving the value of their savings, and should therefore find valuable information in Money for Something.
+Gleichzeitig lässt Inflation den Wert von Spareinlagen auf einem Bankkonto erodieren. Der hier vorgestellte Investitionsansatz hat historisch eine Rendite über der Inflation erreicht. Unabhängig vom Alter sollte man zumindest ein Interesse an dem Erhalt des Wertes seiner Spareinlagen haben und so wertvolle Informationen in *Money for Something* finden.
