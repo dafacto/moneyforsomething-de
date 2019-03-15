@@ -1,38 +1,38 @@
 ---
 layout: chapter
-title: Compounding returns
+title: Zinseszinseffekt
 chapter: 4
 permalink: /book/compounding-returns/
 img_header: header-04.png
 img_footer: summary-04.png
-intro: The powerful force that allows even those with modest incomes to accumulate large savings.
-takeaway: With a reasonable rate of return, compounding earnings will, over time, turn small savings into surprisingly large sums.
+intro: Die Kraft, die auch geringe Einkommen zu hohen Ersparnissen anwachsen lässt.
+takeaway: Mit einer angemessenen Rendite lässt der Zinseszins kleine Einlagen zu erstaunlich großen Summen anwachsen.
 ---
 
-**Compounding returns** is the notion of *earning money on past earnings*. If this is new to you, pay attention—this will be the most important chapter of the book.
+**Zinseszins** ist die Vorstellung von *Geld verdienen mit vergangenen Verdiensten*. Wenn das neu für dich ist, pass auf — Dies ist das wichtigste Kapitel in diesem Ratgeber.
 
-Let’s walk through an example:
+Lass uns ein Beispiel anschauen:
 
-- Say you have $100 in savings, earning 4% per year. After the first year, you’ll have $104—your original $100, plus $4 of earnings. Makes sense, right?
+- Nehmen wir an du hast 100€ angelegt zu einer Rendite von 4% pro Jahr. Nach dem ersten Jahr wirst du 104€ haben—deine ursprünglichen 100€ plus 4€ Rendite. Macht Sinn, oder?
 
-- After the second year you’ll have $108.16—another $4 earned on your original $100 savings, plus $0.16 earned on last year’s earnings of $4.
+- Nach dem zweiten Jahr wirst du 108,16€ haben—weitere 4€ auf deine ursprünglichen 100€ plus 0,16€ Rendite auf deine 4€ Rendite vom letzten Jahr. 
 
-- After the third year, $112.49—another $4 on your original $100, plus $0.33 on your last two years earnings of $8.16.
+- Nach dem dritten Jahr 112,49€—weitere 4€ auf deine ursprünglichen 100€ plus $0.33 auf deine 8,16€ Rendite der letzten beiden Jahre.
 
-*Earnings on earnings, year after year.* 
+*Rendite auf Rendite, Jahr für Jahr.*
 
-It’s hard to believe such a simple concept could be so important. But after many years of investing, *the majority of your savings will have come from compound returns*, rather than original investments.
+Es ist schwer zu glauben, dass ein so einfaches Konzept so wichtig ist. Aber nach vielen Jahren des Investierens *kommt die Mehrheit deiner Einlagen von Zinseszinsen*, als von den ursprünglichen Einzahlungen.
 
-Consider this example:
+Schauen wir uns dieses Beispiel an:
 
-Stephanie is 25, and earns $50,000. Her salary increases each year with inflation. If she saves just 10% of her income, and earns an 8% annual return, then at age 55 she will have *invested* $280,000, but will have accumulated *nearly one million dollars*!
+Stephanie, 25, verdient 50.000 €. Ihr Einkommen steigt jedes Jahr im Rahmen der Inflation. Wenn sie nur 10% ihres Einkommes spart und darauf eine jährliche Rendite von 8% erhält, wird sie mit 55 Jahren 280.000€ *investiert* haben, aber sie wird *fast eine Millionen Euros* angesammelt haben!
 
 ![](/assets/img/chart-04.png)
 
-The above chart highlights some important concepts.
+Die Abbildung stellt einige wichtige Konzepte dar.
 
-- **The power of compounding returns** — After 30 years, far more of her final balance of $920,000 comes from earnings ($640,000), than from the money she actually saved ($280,000). Earnings on earnings.
+- **Die Macht des Zinseszins** — Nach 30 Jahren kommt von ihrem Kontostand von 920.000€ weitaus mehr durch Rendite (Earnings), als von dem Geld, das sie gespart hat (Savings). Rendite auf Rendite.
 
-- **The importance of time** — The power of compounding returns comes late in the game. Had she waited five years to start saving—delaying her start by 16%—her final balance after 25 years would have been reduced by 40% ($565,000 compared to $920,000).
+- **Der Einfluss der Zeit** — Die Macht des Zinseszins kommt vor allem später ins Spiel. Hätte sie fünf Jahre gewartet mit dem Sparen — und damit den Startpunkt um 16% verzögert — würde ihr Kontostand sich um 40% reduziert haben (565.000€ anstatt 920.000€).
 
-- **The importance of the annual rate of return** — What if Stephanie had just put her money in the bank, earning 3% per year? Her final balance would be $420,000—i.e. decreasing her annual return from 8% to 3% decreases her final balance by more than half!
+- **Der Einfluss der jährlichen Rendite** — Was wäre passiert, wenn Stephanie Ihr Geld einfach im Sparkonto auf der Bank für 3% Zinsen gelassen hätte? Ihr finaler Kontostand wäre 420.000€ — d.h. die Reduktion der Rendite von 8% auf 3% hätte Ihren finalen Kontostand mehr als die Hälfte reduziert!
