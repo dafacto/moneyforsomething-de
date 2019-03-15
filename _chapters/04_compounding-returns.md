@@ -13,11 +13,11 @@ takeaway: Mit einer angemessenen Rendite lässt der Zinseszins kleine Einlagen z
 
 Lass uns ein Beispiel anschauen:
 
-- Nehmen wir an du hast 100€ angelegt zu einer Rendite von 4% pro Jahr. Nach dem ersten Jahr wirst du 104€ haben—deine ursprünglichen 100€ plus 4€ Rendite. Macht Sinn, oder?
+- Nehmen wir an du hast 100€ angelegt zu einer Rendite von 4% pro Jahr. Nach dem ersten Jahr wirst du 104€ haben — deine ursprünglichen 100€ plus 4€ Rendite. Macht Sinn, oder?
 
-- Nach dem zweiten Jahr wirst du 108,16€ haben—weitere 4€ auf deine ursprünglichen 100€ plus 0,16€ Rendite auf deine 4€ Rendite vom letzten Jahr. 
+- Nach dem zweiten Jahr wirst du 108,16€ haben — weitere 4€ auf deine ursprünglichen 100€ plus 0,16€ Rendite auf deine 4€ Rendite vom letzten Jahr. 
 
-- Nach dem dritten Jahr 112,49€—weitere 4€ auf deine ursprünglichen 100€ plus $0.33 auf deine 8,16€ Rendite der letzten beiden Jahre.
+- Nach dem dritten Jahr 112,49€ — weitere 4€ auf deine ursprünglichen 100€ plus $0.33 auf deine 8,16€ Rendite der letzten beiden Jahre.
 
 *Rendite auf Rendite, Jahr für Jahr.*
 
