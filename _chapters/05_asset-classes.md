@@ -28,6 +28,6 @@ In welche Anlageklasse kann die durchschnittliche Person investieren? Es zeigt s
 -	Immobilien
 -	Rohstoffe
 -	Edelmetalle
--	und viele mehr…
+-	und mehr…
 
 Mit nur ein paar Klicks online können wir buchstäblich in den gesamten amerikanischen Aktienmarkt, Gold oder sogar in chinesische Immobilen investieren.
