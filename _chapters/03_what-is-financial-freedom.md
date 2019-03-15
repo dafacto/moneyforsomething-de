@@ -17,7 +17,7 @@ Es gibt eine Faustregel zur finanziellen Freiheit: Wenn man jährlich nicht mehr
 
 Der Umkehrschluss gilt auch. Wenn du einmal das 25fache deiner jährlichen Ausgaben angespart hat —*bist du finanziell frei*! 
 
-Nehmen wir einmal an du willst aufhören zu arbeiten und brauchst 120,000 € pro Jahr für deine Ausgaben. In diesem Fall musst du 3 Millionen € sparen, um finanzielle Freiheit zu erreichen. Wenn du von 40,000 € im Jahr leben kannst, brauchst du nur eine Millionen €. Wenn du deinen Arbeitsbereich ändern willst und 10,000 € im Jahr geben dir das finanzielle Polster dafür, würden 250,000 € ausreichen für deine finanzielle Freiheit.
+Nehmen wir einmal an du willst aufhören zu arbeiten und brauchst 120.000 € pro Jahr für deine Ausgaben. In diesem Fall musst du 3 Millionen € sparen, um finanzielle Freiheit zu erreichen. Wenn du von 40.000 € im Jahr leben kannst, brauchst du nur eine Millionen €. Wenn du deinen Arbeitsbereich ändern willst und 10.000 € im Jahr geben dir das finanzielle Polster dafür, würden 250.000 € ausreichen für deine finanzielle Freiheit.
 
 ## Für mich hat es funktioniert
 
