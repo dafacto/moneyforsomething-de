@@ -1,33 +1,33 @@
 ---
 layout: chapter
-title: Asset classes
+title: Anlageklassen
 chapter: 5
 permalink: /book/asset-classes/
 img_header: header-05.png
 img_footer: summary-05.png
-intro: Groups of things, rather than individual things.
-takeaway: We should invest our savings in asset classes, rather than individual assets.
+intro: Lieber eine Gruppe von Sachen, als einzelne Sachen.
+takeaway: Wir sollten unsere Ersparnisse in Anlageklassen investieren, nicht in individuelle Anlagen.
 ---
 
-Where can we put our savings if we want to earn a higher return than what a bank account provides? 
+Wo können wir unsere Ersparnisse anlegen, wenn wir eine höhere Rendite als auf dem Sparbuch oder Girokonto haben wollen? 
 
-Well, we could buy a house, a painting, some shares of Apple, or a chunk of gold. These are all examples of **assets** we could buy in the hopes of earning a long-term return.
+Wir könnten ein Haus, ein Gemälde, Apple-Aktien oder ein Stück Gold kaufen. Dies sind alles Beispiele von **Anlagen**, die wir kaufen könnten mit der Hoffnung einer hohen langfristigen Rendite.
 
-Assets which are similar to each other can be grouped into categories known as **asset classes**. A house belongs to the “real estate” asset class. Shares of Apple belong to the asset class known as “stocks”. Gold would belong to the “precious metals” asset class.
+Anlagen, die einander ähneln können in Kategorien gruppiert werden, die als **Anlageklassen** bezeichnet werden. Ein Haus gehört in die Anlageklasse “Immobilie“. Apple-Aktien gehören in die Anlageklasse “Aktien“. Gold würde in die Anlageklasse “Edelmetalle“ gehören.
 
-Generations of data show us that picking the right house, or the right stock, or the right anything within a particular asset class is not a reliable long-term investment strategy. On the other hand, investing in asset classes themselves is *fundamental* to a reliable long-term strategy. For that reason, rather than investing in *individual assets*, we should generally invest in *asset classes*.
+Generationen von Daten zeigt uns, dass die Auswahl des richtigen Hauses, der richtigen Aktie oder des richten Irgendwas in einer Anlageklasse keine zuverlässige Langzeit-Anlagestrategie ist. Andererseits ist das Investieren in ganze Anlageklassen *grundlegend* für eine zuverlässige Lanzeit-Strategie. Anstelle also in *individuelle Anlagen* zu investieren, sollten wir generell in *Anlageklassen* investieren.
 
-To illustrate that, over the past 150 years, the stock market *on the whole* has performed well as an investment. But at the same time, there’s almost no *individual company stock* that has even survived that long.
+Verdeutlicht wird dies durch den Umstand, dass – über die letzten 150 Jahre – der Aktienmarkt *in seiner Gesamtheit* sehr gut als Investition funktioniert hat. In der gleichen Zeit gibt es fast keine *individuelle Aktie*, die auch nur so lang überlebt hat.
 
-Now, where things get *really interesting* is when our investments are spread amongst a variety of asset classes, in order to exploit their *relationships to each other*. For example, stocks generally do well when bonds do poorly, and vice-versa. As we’ll see, we can use that to our advantage!
+Jetzt wird es *wirklich interessant*. Wenn unsere Anlagen über mehrere Anlageklassen verteilt werden, nutzen wir ihre *Beziehung zueinander*. Zum Beispiel funktionieren Aktien generell gut, wenn Anleihen schlecht laufen und anders herum. Wie wir sehen werden, können wir dies zu unserem Vorteil nutzen!
 
-In which asset classes can the average person invest? It turns out that, today, it’s easy to invest in a surprisingly broad range of asset classes, including:
+In welche Anlageklasse kann die durchschnittliche Person investieren? Es zeigt sich, dass es heute einfach ist in eine erstaunlich breite Auswahl an Anlageklassen zu investieren. Dazu gehören:
 
-- Stocks
-- Bonds
-- Real estate
-- Natural resources
-- Precious metals
-- and more…
+-	Aktien
+-	Anleihen
+-	Immobilien
+-	Rohstoffe
+-	Edelmetalle
+-	und viele mehr…
 
-With nothing more than a few clicks online, we can literally purchase the entire American stock market, gold or even Chinese real estate!
+Mit nur ein paar Klicks online können wir buchstäblich in den gesamten amerikanischen Aktienmarkt, Gold oder sogar in chinesische Immobilen investieren.
