@@ -1,24 +1,24 @@
 ---
 layout: chapter
-title: Investment period
+title: Investitionszeitraum
 chapter: 7
 permalink: /book/investment-period/
 img_header: header-07.png
 img_footer: summary-07.png
-intro: Patience is more than a virtue—it’s money.
-takeaway: By holding investments for a long time, we reduce the risk of loss.
+intro: Geduld ist mehr als eine Tugend—Es ist Geld.
+takeaway: Durch das Halten von Investitionen über einen langen Zeitraum reduzieren wir unser Verlustrisiko.
 ---
 
-Holding volatile investments, like stocks,   over a long period of time reduces the risk of losing money. Let’s look at a graph of what happens when we hold stocks for different periods of time.
+Wenn man volatile Invesitionen wie Aktien über einen langen Zeitraum hält, reduziert man das Risiko Geld zu verlieren. Die Abbildung zeigt, was passiert wenn wir Aktien über verschiedene Zeiträume halten.
 
 ![](/assets/img/chart-07.png)
 
-What does this chart tell us?
+Was sagt uns diese Abbildung?
 
-- During the 55-year period between 1950 and 2005, if we had held stocks for any particular *one-year period*, we could have gained as much as 50%, or we could have lost nearly 30%. Ouch—holding stocks for just one year seems risky!
+- Für den 55-jährigen Zeitraums von 1950 bis 2005 gilt: Wenn wir Aktien für irgendeinen *einjährigen Zeitraum* gehalten haben, hätten wir entweder 50% Gewinn gemacht oder wir hätten fast 30% verlieren können. Aua—Aktien für ein Jahr zu halten scheint riskant zu sein!
 
-- When held for any *5-year period* during those 55 years, the annualized return would have been somewhere between about +29% and −2%. That sounds a little better.
+- Wenn wir Aktien für irgendeinen *fünfjährigen Zeitraum* in den gleichen 55 Jahren  gehalten hätten, wären wir mit unserer durchschnittlichen jährlichen Rendite zwischen +29% und -2%. Das klingt etwas besser.
 
-- Looking further, we see that stocks held for any *10-year period* during those 55 years would have never lost money.
+- Aktien, die in irgendeinem *10-jährigen Zeitraum* gehalten wurden in diesen 55 Jahren, hätten nicht an Wert verloren.
 
-- But held for any *20-year period* during those 55 years, the *minimum* annualized return we would have earned would be 7%, and the maximum, 18%. Now we’re talking!
+- Spannend wird es für irgendeinen *20-jährigen Zeitraum* in den gleichen 55 Jahren. Wir hätten eine *minimale* durchschnittliche Rendite von 7% und Maximale von 18% erreicht. Damit kann man arbeiten!
