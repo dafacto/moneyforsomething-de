@@ -21,4 +21,4 @@ Was sagt uns diese Abbildung?
 
 - Aktien, die in irgendeinem *10-jährigen Zeitraum* gehalten wurden in diesen 55 Jahren, hätten nicht an Wert verloren.
 
-- Spannend wird es für irgendeinen *20-jährigen Zeitraum* in den gleichen 55 Jahren. Wir hätten eine *minimale* durchschnittliche Rendite von 7% und Maximale von 18% erreicht. Damit kann man arbeiten!
+- Spannend wird es für irgendeinen *20-jährigen Zeitraum* in den gleichen 55 Jahren. Wir hätten eine *minimale* durchschnittliche Rendite von 7% und maximale durchschnittliche Rendite von 18% erreicht. Damit kann man arbeiten!
