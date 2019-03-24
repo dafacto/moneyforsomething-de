@@ -25,7 +25,7 @@ Ist Option 2 nun besser oder schlechter als Option 1? Es scheint beides ist glei
 
 Ohne in die Mathematik dahinter abzutauchen, ist die durchschnittliche Rendite bei Option 1 8,2% und das Risiko—also die Standardabweichung—20%. Bei Option 2 liegt die durchschnittliche Rendite bei 9,1% und das Riskio bei nur 14%.
 
-*Mit 2 Münzwürfen erhöhen wir die Rendite und reduzieren das Risiko.* Das ist der Vorteil von Diversifizierung!
+*Mit 2 Münzwürfen erhöhen wir die Rendite und reduzieren das Risiko.* Das ist der Vorteil von Diversifikation!
 
 ## Korrelation
 
