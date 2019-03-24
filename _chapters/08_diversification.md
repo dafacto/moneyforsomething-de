@@ -29,14 +29,14 @@ Ohne in die Mathematik dahinter abzutauchen, ist die durchschnittliche Rendite b
 
 ## Korrelation
 
-Die Vorteile der Diversifikation bei Optino 2 kommen daher, dass die beiden Münzwürfe unabhändig oder *unkorreliert* voneinander sind.  D.h. die Wahrscheinlichkeit Zahl bei Münzwurf 2 zu haben ist unabhängig von dem Ergebnis bei Münzwurf 1.
+Die Vorteile der Diversifikation bei Option 2 kommen daher, dass die beiden Münzwürfe unabhändig oder *unkorreliert* voneinander sind.  D.h. die Wahrscheinlichkeit "Zahl" bei Münzwurf 2 zu haben ist unabhängig von dem Ergebnis bei Münzwurf 1.
 
 Dieses wichtige Konzept hat einige wichtige Auswirkungen. Zum Beispiel:
 
-- Wenn man die Anteile von 1000 Unternehmen in Aktien kauft, hat man größere Vorteile durch Diversifikation als wenn man nur Aktien von einem Unternehmen kauft.
+- Wenn man die Anteile von 1000 Unternehmen in Aktien kauft, hat man größere Vorteile durch Diversifikation, als wenn man nur Aktien von einem Unternehmen kauft.
 
-- Aufteilen deiner Investitionen über relativ unzusammenhängende Anlageklassen wie Aktien und Anleihen ergibt eine höhere Diversifikation als das Aufteilen der Investition in Aktien von großen Unternehmen und Aktien in kleine Unternehmen.
+- Aufteilen deiner Investitionen über relativ unzusammenhängende Anlageklassen wie Aktien und Anleihen ergibt eine höhere Diversifikation, als das Aufteilen der Investition in Aktien von großen Unternehmen und Aktien in kleine Unternehmen.
 
-In diesem Ratgeber empfehlen wir deine Invesitionen über verschiedene Anlageklassen zu verteilen, die so wenig miteinander korrelieren wie möglich, damit du die Vorteile der Diversifikation erhälst.
+In diesem Ratgeber empfehlen wir dir deine Invesitionen über verschiedene Anlageklassen zu verteilen, die so wenig miteinander korrelieren wie möglich, damit du die Vorteile der Diversifikation nutzen kannst.
 
 Eine interessante—und vielleicht paradoxe—Konsequenz davon ist, dass immer *einige deiner Investitionen gut laufen sollten, während andere schlecht laufen sollten*. Dieses Verhalten ist langfristig tatsächlich vorteilhaft! 
