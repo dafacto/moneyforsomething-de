@@ -15,7 +15,7 @@ Wenn man volatile Invesitionen wie Aktien über einen langen Zeitraum hält, red
 
 Was sagt uns diese Abbildung?
 
-- Für den 55-jährigen Zeitraums von 1950 bis 2005 gilt: Wenn wir Aktien für irgendeinen *einjährigen Zeitraum* gehalten haben, hätten wir entweder 50% Gewinn gemacht oder wir hätten fast 30% verlieren können. Aua—Aktien für ein Jahr zu halten scheint riskant zu sein!
+- Für den 55-jährigen Zeitraums von 1950 bis 2005 gilt: Wenn wir Aktien für irgendeinen *einjährigen Zeitraum* gehalten haben, hätten wir über 50% Gewinn machen oder wir hätten fast 30% verlieren können. Aua—Aktien für ein Jahr zu halten scheint riskant zu sein!
 
 - Wenn wir Aktien für irgendeinen *fünfjährigen Zeitraum* in den gleichen 55 Jahren  gehalten hätten, wären wir mit unserer durchschnittlichen jährlichen Rendite zwischen +29% und -2%. Das klingt etwas besser.
 
