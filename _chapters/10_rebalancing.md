@@ -1,42 +1,42 @@
 ---
 layout: chapter
-title: Rebalancing
+title: Rebalancing / Umschichten
 chapter: 10
 permalink: /book/rebalancing/
 img_header: header-10.png
 img_footer: summary-10.png
-intro: Sell high, buy low. Without predicting the market.
-takeaway: Periodic rebalancing preserves the risk vs return characteristics of our asset allocation, and can increase returns.
+intro: Verkaufe teuer, kaufe billig. Ohne den Markt vorherzusehen.
+takeaway: – Periodisches Rebalancing oder Umschichten erhält das Risiko/Rendite – Verhältnis unseres Portfolios und kann die Rendite erhöhen.
 ---
 
-Over time, as your individual asset classes increase and decrease in value, your allocation will shift from its target. **Rebalancing** brings that imbalanced allocation back in line with its target. Suppose your total portfolio value is $100 and your target allocation looks like this:
+Mit der Zeit werden einige deiner einzelnen Anlageklassen steigen und andere fallen. So wird deine Anlage-Verteilung sich von Ihrem festgelegten Ziel entfernen. **Rebalancing oder Umschichten** holt diese unausgeglichene Verteilung wieder zurück zum Ziel. Nehme einmal an der Wert deines Portfolios beträgt 100 Euro und deine Zielverteilung sieht folgendermaßen aus: 
 
-| Investment | Amount       | Percentage of Total |
+| Anlage      | Wert        | prozentualer Anteil |
+|-------------|-------------|---------------------|
+| Aktien      | 50€         | **50%**                 |
+| Anleihen    | 50€         | **50%**                 |
+|             | 100€ (Total)| 100%                |
+
+Nehmen wir mal an, dass Aktien dieses Jahr um 30% steigen und Anleihen um 10% fallen. Zum Ende des Jahres wird dein Portfolio um 10% auf 110 Euro gestiegen sein und die Verteilung hat sich verändert:
+
+| Anlage     | Wert         | prozentualer Anteil |
 |------------|--------------|---------------------|
-| Stocks     | $50          | **50%**                 |
-| Bonds      | $50          | **50%**                 |
-|            | $100 (Total) | 100%                |
+| Aktien     | 65€          | **59%**                 |
+| Anleihen   | 45€          | **41%**                 |
+|            | 110€ (Total) | 100%                |
 
-Say that stocks gain 30% this year, while bonds lose 10%. At the end of the year, your portfolio will have increased in total value by 10%, to $110, but its allocation will have shifted to become:
+Durch das Rebalancing verkaufen wir für 10 Euro Aktien und kaufen für 10 Euro Anleihen. Damit bringen wir das Portfolio zurück zu seiner ursprünglichen Ziel-Verteilung
 
-| Investment | Amount       | Percentage of Total |
+| Anlage     | Wert         | prozentualer Anteil |
 |------------|--------------|---------------------|
-| Stocks     | $65          | **59%**                 |
-| Bonds      | $45          | **41%**                 |
-|            | $110 (Total) | 100%                |
+| Aktien     | 55€          | **50%**                 |
+| Anleihen   | 55€          | **50%**                 |
+|            | 110€ (Total) | 100%                |
 
-By rebalancing, we sell $10 of stocks and buy $10 of bonds, bringing the overall allocation back to its original target.
+## Warum umschichten?
 
-| Investment | Amount       | Percentage of Total |
-|------------|--------------|---------------------|
-| Stocks     | $55          | **50%**                 |
-| Bonds      | $55          | **50%**                 |
-|            | $110 (Total) | 100%                |
+Wenn du kontinuierlich verkaufst was gestiegen ist und kaufst was gesunken ist, wirst du auf lange Sicht mehr billig und weniger teuer einkaufen. Dadurch erhöhst du deine Rendite und erhälst gleichzeitig das “Risiko/Rendite – Verhältnis“ deines Ziel-Portfolios.
 
-## Why bother rebalancing?
+## Wie oft solltest du Umschichten?
 
-By continually selling what’s gone up, and buying what’s gone down, you are in the long run buying more of what is cheap and less of what is expensive, increasing returns while preserving the “risk versus return” characteristics of your target asset allocation.
-
-## How often should you rebalance?
-
-About once per year should be fine, or when any asset class is 20% off its target. For example, for a 50% stock allocation, we’d rebalance if that asset class grew to 60% (50% x 1.2) or dropped to 40% (50% x 0.8).
+Etwa einmal im Jahr oder wenn eine Anlageklasse 20% von Ihrem Zielwert entfernt ist. Wenn beispielsweise eine 50%-ige Aufteilung in Aktien auf 60% (50% x 1,2) steigt oder auf 40% (50% x 0,8) sinkt, würden wir umschichten. 
