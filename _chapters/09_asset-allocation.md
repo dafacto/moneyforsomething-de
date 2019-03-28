@@ -36,7 +36,7 @@ Einfach diversifiziert. Während der 34-jährigen Periode von 1974 bis 2008—me
 
 ### Option 2: Was ich mache
 
-Mein persönliches Portfolio ist eine leichte Variation der Anlagenverteilung, die vom späten Harry Browne vorgeschlagen wurde, auch Permanentes Portfolio genannt. Während der 34-jährigen Periode von 1974 bis 2008 hatte diese Verteilung eine durchschnittliche jährliche Rendite von 9,3%. Allerdings mit dem Vorteil einer wesentlich geringeren Volatilität als bei Option 1.
+Mein persönliches Portfolio ist eine leichte Variation der Anlagenverteilung, die vom späten Harry Browne vorgeschlagen wurde, auch Permanentes Portfolio genannt. Während der 34-jährigen Periode von 1974 bis 2008 hatte diese Verteilung eine durchschnittliche jährliche Rendite von 9,3%. Allerdings mit dem Vorteil einer wesentlich geringeren Volatilität.
 
 Das Permanente Portfolio basiert auf der Idee, dass es vier mögliche Zustände der Wirtschaft gibt:
 
