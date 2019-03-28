@@ -1,55 +1,55 @@
 ---
 layout: chapter
-title: Asset allocation
+title: Portfolio-Strukturierung
 chapter: 9
 permalink: /book/asset-allocation/
 img_header: header-09.png
 img_footer: summary-09.png
-intro: Long term performance is driven by asset allocation.
-takeaway: In the long term, the allocation decision is what matters most. Sticking with your allocation is more important than picking the optimal one.
+intro: Langfristiger Erfolg hängt von der Portfolio-Strukturierung ab.
+takeaway: Auf lange Sicht hat die Anlagenverteilung den größten Einfluß. Bei der gewählten Verteilung zu bleiben ist wichtiger, als die Optimale auszuwählen.
 ---
 
-So far, we’ve learned that we should be investing in unrelated asset classes and holding those investments for a long time. How you choose to distribute your investments across specific asset classes is known as **asset allocation**, and it’s the single most dominant influencer of long-term investment performance.
+Bisher haben wir gelernt, dass wir in voneinander unabhängige Anlageklassen investieren und diese für einen langen Zeitraum halten sollten. Die Verteilung der Investitionen über spezifische Anlageklassen ist bekannt als **Portfolio-Strukturierung**, und es ist das wichtigste Mittel zur Beeinflussung der Performance einer Investition.
 
-## Make a sensible choice, then stick with it
+## Mache eine vernünftige Wahl, dann bleib dabei
 
-The choice of a particular asset allocation is both related to the return you’re seeking, and the risk you’re willing to accept. Most books recommend that you assess your personal appetite for risk. Based on that, and the return you’re seeking, an appropriate asset allocation can be identified.
+Die Wahl einer bestimmten Anlagenverteilung beeinflusst deinen gewünschten Ertrag und das Risiko, dass du bereit bist zu tragen. Viele Bücher empfehlen, dass du deine Risikotoleranz einschätzt. Dann, basierend auf deiner Risikotoleranz, kann eine angemessene Anlagenverteilung oder Portfolio-Strukturierung identifiziert werden. 
 
-Studies have shown, though, that we humans are awful at assessing our own appetite for risk. When times are good, we feel brave. When times are bad, we feel conservative.
+Allerdings haben Studien gezeigt, dass wir Menschen furchtbar schlecht darin sind unsere eigene Risikotoleranz einzuschätzen. Wenn alles gut läuft, sind wir mutig. Wenn es schlecht läuft, sind wir konservativ.
 
-A lot of effort can be spent, and time lost, trying to identify the perfect asset allocation. Decision paralysis, overanalyzing, and continually changing one’s mind about asset allocation is known to be detrimental to long-term performance. Most investors I know—myself included—have at some point found themselves jumping in and out of various allocations, all the while, watching their investment performance decline.
+Man kann also viel Energie investieren und Zeit verschwenden, um die perfekte Anlage-Verteilung zu identifizieren. Entscheidungslähmung, Überanalysieren und das ständige Ändern seiner Meinung zu einer Anlage-Verteilung ist sehr schädlich für einen langfristigen Erfolg. Viele Investoren, die ich kenne—inklusive mir—sind einmal an den Punkt gekommen in und aus verschiedenen Verteilung der Investitionen zu springen, nur um dabei zu sehen, wie die der Investitionserfolg abnimmt.
 
-In this guide, we’re focusing on what’s important—that you start investing now, and stick to a plan. We’ll therefore skip personal risk assessment and just suggest some conservative approaches that should work well for anyone.
+In diesem Ratgeber fokussieren wir auf das Wichtige—Dass du jetzt anfängst zu investieren und bei deinem Plan bleibst. Daher werden wir die Risikoeinschätzung auslassen und einfach nur einige konservative Ansätze vorstellen, die für jeden funktionieren sollten.
 
-*One thing that’s well known is that, in the long run, it’s far more important to have consistently stuck to your allocation choice than to have picked the “optimum” one in the first place.*
+*Eine bekannte Sache ist, dass es langfristig viel wichtiger ist, konstant zu einer gewählten Verteilung gehalten zu haben, als am Anfang die „optimale“ Verteilung gewählt zu haben.*
 
-## Two proposed allocations
+## Zwei vorgeschlagene Portfolios
 
-In this chapter, we will propose two conservative allocations. Later, we will recommend the specific investments to buy that correspond to the asset classes in each of these plans. (For more allocation options, visit the [portfolios](/portfolios/) section of this site.)
+In diesem Kapitel schlagen wir zwei konservative Anlageaufteilungen vor. Später werden wir spezifische Investitionen vorschlagen, die zu den Anlageklassen dieser Aufteilungen passen. (Für weitere Aufteilungsoptionen, besuche den Bereich [portfolios](/portfolios/) dieser Seite.)
 
-### Option 1: The Classic
+### Option 1: Der Klassiker
 
-Simple and diverse. During the 34-year period from 1974 to 2008—the data I have available—allocations like The Classic had an annual rate of return of about 9%.
+Einfach diversifiziert. Während der 34-jährigen Periode von 1974 bis 2008—meine vorliegenden Daten—haben Verteilungen wie der Klassiker eine durchschnittliche jährliche Rendite von etwa 9%.
 
-- Stocks, 50%
-- Bonds, 50%
+- Aktien, 50%
+- Anleihen, 50%
 
-### Option 2: What I do
+### Option 2: Was ich mache
 
-My personal portfolio is a slight variation of an asset allocation proposed by the late Harry Browne, called the Permanent Portfolio. During the 34-year period between 1974 and 2008, this allocation also had an annual return of 9.3%, but with the benefit of a much lower volatility.
+Mein persönliches Portfolio ist eine leichte Variation der Anlagenverteilung, die vom späten Harry Browne vorgeschlagen wurde, auch Permanentes Portfolio genannt. Während der 34-jährigen Periode von 1974 bis 2008 hatte diese Verteilung eine durchschnittliche jährliche Rendite von 9,3%. Allerdings mit dem Vorteil einer wesentlich geringeren Volatilität als bei Option 1.
 
-The Permanent Portfolio is based on the idea that there are four possible states of the economy:
+Das Permanente Portfolio basiert auf der Idee, dass es vier mögliche Zustände der Wirtschaft gibt:
 
-- Prosperity
+- Konjunktur
 - Inflation
 - Deflation
-- Recession
+- Rezession
 
-For maximum diversification effect Browne identified for each economic condition the most volatile asset class, and proposed to invest equally in each.
+Für eine maximale Diversifikation hat Browne die am meisten volatilen Anlageklassen identifiziert und vorgeschlagen zu gleichen Teilen in jede davon zu investieren.
 
-- Prosperity → Stocks, 25%
+- Konjunktur → Aktien, 25%
 - Inflation → Gold, 25%
-- Deflation → Long-term government bonds, 25%
-- Recession → Cash, 25%
+- Deflation → Langfristige Staatsanleihen, 25%
+- Rezession → Bargeld/Cash, 25%
 
-In a later chapter, we’ll see exactly how to purchase these portfolios.
+In einem späteren Kapitel schauen wir uns genau an, wie wir diese Portfolios kaufen können.
