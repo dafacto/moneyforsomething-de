@@ -1,18 +1,18 @@
 ---
 layout: chapter
-title: Exchange traded funds
+title: Börsennotierte Fonds (ETFs)
 chapter: 13
 permalink: /book/exchange-traded-funds/
 img_header: header-13.png
 img_footer: summary-13.png
-intro: The ideal investment product for low-cost, passive investing.
-takeaway: ETFs are convenient and economical building blocks of successful long-term investment program.
+intro: Das ideale Investitions-Produkt für ein kostengünstiges, passives Investieren.
+takeaway: ETFs sind bequeme und ökonomische Bausteine für ein erfolgreiches langzeitiges Investitions-Programm. 
 ---
 
-Where can we find investment products that are passive, represent entire asset class markets, and are low cost? It may seem a lot to ask, but fortunately such products exist and are called **Exchange Traded Funds** or **ETFs**.
+Wo können wir die Investitions-Produkte finden, die passive, ganze Anlageklassen repräsentieren und billig sind? Das sind viele Anforderungen, aber glücklicherweise gibt es solche Produkte. Sie nennen sich **Börsennotierte Fonds**, auf Englisch **Exchange Traded Funds** oder **ETFs**.
 
-ETFs are products sold by financial investment firms such as Vanguard and Blackrock that are bought and sold on stock markets around the world. Just as easily as you can buy a share of Apple Inc. stock (AAPL), you can buy a share of the Vanguard Total Stock Market ETF (VTI) or a share of the iShares 20+ Year US Government Bonds ETF (TLT).
+ETFs sind Produkte, die von Finanzinvestitions-Firmen wie Vanguard und Blackrock verkauft werden. Diese werden auf Aktienmärkten der ganzen Welt gehandelt. So einfach wie man auch einen Anteil von Apple Inc. Aktien (AAPL) kaufen kann, kann man auch Anteile vom Vanguard Total Stock Market ETF (VTI) oder einem Anteil vom iShares 20+ Year US Government Bonds ETF (TLT) kaufen.
 
-Not only are such ETFs convenient to buy, they are also cheap. For example, at the time of this writing, the iShares TLT ETF charges an annual fee of only {{ site.data.etfs.tlt.cost }}, while the Vanguard VTI ETF charges only {{ site.data.etfs.vti.cost }} per year.
+Solche ETFs sind nicht nur bequem zu kaufen, sondern auch billig. Beispielsweise hat, zur Zeit dieser Übersetzung, der iShares TLT ETF eine jährliche Gebühr von nur 0,15% und der Vanguard VTI ETF eine Gebühr von nur 0,04%.
 
-Knowing what we know about the tyranny of costs, and knowing what we know about trying to beat markets, why would anyone ever pay a manager 2% per year to actively pick stocks when you can buy the entire American stock market in the form of an ETF for *fifty times cheaper*, i.e. {{ site.data.etfs.vti.cost }} per year?
+Mit dem Wissen über die Gewalt der Kosten und darüber, wie schwer es ist den Markt zu schlagen: Warum sollte Jemand einem Manager jährlich 2% zahlen, damit er Aktien auswählt, wenn man den gesamten amerikanischen Aktienmarkt als ETF *fünfzigmal billiger*, d.h. für 0,04% pro Jahr kaufen kann?
