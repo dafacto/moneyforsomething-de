@@ -1,44 +1,44 @@
 ---
 layout: chapter
-title: Passive investments
+title: Passive Investitionen
 chapter: 11
 permalink: /book/passive-investments/
 img_header: header-11.png
 img_footer: summary-11.png
-intro: Don’t try to beat the market, buy the market.
-takeaway: Since you can’t beat the market, buy the market. Buy passive, index-tracking investments.
+intro: Versuche nicht den Markt zu schlagen. Kaufe ihn lieber.
+takeaway: Da es nicht möglich ist den Markt zu schlagen, kaufe ihn lieber. Kaufe passive Index-abbildende Anlagen.
 ---
 
-Now that we’re almost ready to start investing, let’s take a moment to explore in more detail the reasons why we invest in asset classes rather than individual assets. Why explore this topic? Because the conclusions will dictate the types of products we’ll buy in order to invest in those same asset classes.
+Jetzt sind wir fast bereit mit dem Investieren zu starten. Gehen wir vorher einmal ins Detail dazu warum wir in Anlageklassen und nicht in einzelne Anlagen investieren. Warum ist dieses Thema wichtig? Weil die Schlussfolgerungen zu den Arten von Produkten führen, die wir kaufen werden, um eben in diese Anlageklassen zu investieren.
 
-For many, the idea of investing means buying the stock of an undervalued company and later selling at its peak—buying and selling the right investments, at the right time. Unfortunately, that’s a losing strategy.
+Investieren bedeutet für Viele, dass man Aktien von unterbewerteten Unternehmen kauft und diese später bei ihrem Höhepunkt verkauft—Kaufen und Verkaufen der richtigen Investition zu dem richtigen Zeitpunkt. Bedauerlicherweise verliert man mit dieser Strategie.
 
-Studies have overwhelmingly demonstrated that—in the long term—*almost nobody* can beat the market by picking and choosing individual investments, a process known as *active management*.
+Eine überwältigende Anzahl von Studien hat gezeigt, dass—über einen langen Zeitraum—*fast Niemand* den Markt schlagen kann, indem einzelne Investitionen gewählt werden. Dieser Prozess wird auch als *aktives Management* bezeichnet.
 
-This is important, for two reasons.
+Aus zwei Gründen ist das wichtig.
 
-1. As a consequence, you should invest in asset classes—i.e. *entire markets*—rather than individual companies or assets.
+1. Daraus folgt, dass du in Anlageklassen investieren solltest—d.h. in *ganze Märkte*—anstelle von einzelnen Unternehmen oder Anlagen.
 
-2. You need to be aware that a huge financial industry exists to convince you otherwise. Fund managers and newsletters will try to convince you they can pick winning stocks. Remember that this industry exists to make money from you. Ignore them, and never forget the first point—that we need to be investing in entire markets.
+2. Dir sollte klar sein, dass eine riesige Finanzindustrie existiert, die dir etwas anderes erzählen möchte. Fondsmanager und Newsletter versuchen dich zu überzeugen, dass sie die richtigen Aktien wählen können. Aber denk daran, dass diese Industrie existiert, um mit dir Geld zu verdienen. Ignoriere sie einfach und vergesse nie den ersten Punkt—Wir müssen in ganze Märkte investieren.
 
-## Introduction to “indexes”
+## Eine Einführung in “Indizes”
 
-How can we invest in an entire market? It’s surprisingly easy!
+Wie können wir in ganze Märkte investieren? Es ist erstaunlich einfach!
 
-A number of organizations publish what are known as indexes—which are lists of companies or assets that represent entire markets or asset classes. For example, the “MSCI US Broad Market Index” lists over 3,000 companies that represent the stock market of the United States. The “MSCI ACWI ex-USA IMI Index” lists over 6,000 companies that represent most investible stock markets outside the United States.
+Einige Organisationen veröffentlichen Indizes—Dies sind Listen von Unternehmen oder Anlagen, die einen ganzen Markt oder eine Anlageklasse repräsentieren. Zum Beispiel listet der “MSCI US Broad Market Index” 3000 Unternehmen, die den Aktienmarkt der USA repräsentieren. Der “MSCI ACWI ex-USA IMI Index” listet mehr als 6000 Unternehmen, die den investierbaren Aktienmarkt außerhalb der USA repräsentieren.
 
-Indexes exist for just about every asset class in which we might want to invest—from stocks, to bonds, to commodities, cryptocurrencies, and even Chinese real estate.
+Indexe gibt es für fast jede Anlageklasse, in die man investieren möchte—Aktien, Anleihen, Rohstoffe, Kryptowährungen und sogar chinesische Immobilien.
 
-## Investing passively through indexed products
+## Passives Investieren durch Index-Produkte
 
-For years, a number of financial companies have offered investment products which track these indexes. For example, rather than purchase a single share of Apple stock, we can purchase a single share of the “Vanguard Total Stock Market ETF” product—and with that one purchase, we’ll be buying a fractional share of over 3,000 companies found in the product’s underlying index.
+Schon lange bieten einige Finanzunternehmen Investitionsprodukte an, die diese Indexe abbilden. Beispielsweise können wir anstelle von einer Apple-Aktie auch ein Anteil vom “Vanguard Total Stock Market ETF” kaufen—und mit diesem Kauf kaufen wir einen kleinen Anteil von über 3000 Unternehmen, die in dem zugrundeliegenden Index für dieses Produkt abgebildet werden. 
 
-*That’s worth repeating—with a single purchase, we can buy the entire American stock market.*
+*Noch einmal wiederholt—Mit einem einzigen Kauf können wir den gesamten amerikanischen Aktienmarkt kaufen.*
 
-Index-tracking products are referred to as **passive investments**, in that they just buy (or sell) the stocks of companies that belong to (or exit) the underlying index. No decisions involved. This is in contrast to active investment products, in which a manager (human or computer) is continually picking and choosing the stocks or assets they believe will beat the overall market.
+Index-abbildende Produkte werden auch als *passive Investitionen* bezeichnet, da in diesen einfach die Aktien von Unternehmen gekauft (oder verkauft) werden, die zu einem zugrundeliegenden Index gehören (oder diesen verlassen). Es ist keine Entscheidung notwendig. Dies steht ganz im Gegensatz zu einem aktiven Investmentprodukt. Bei diesen wählt ein Manager (Mensch oder Computer) Aktien oder Anlagen aus, die den Markt schlagen sollen.
 
-How well do active products do? *The results are conclusive and astounding.*
+Wie gut schlagen sich aktive Produkte? *Die Ergebnisse sind überzeugend und verblüffend.*
 
 ![](/assets/img/chart-11.png)
 
-In the long run, say over 25 years, the chances that an active investment manager can beat the stock market are less than 5%, as illustrated in this data borrowed from John Bogle’s, Little Book of Common Sense Investing. In summary, these data show that your chances of picking an active manager who can beat the market over 25 years is less than 5%.
+Auf lange Sicht, sagen wir 25 Jahre, sind die Chancen, dass ein aktiver Investmetmanager den Aktienmarkt schlägt, bei unter 5%. Die Abbildung aus dem Buch „Little Book of Common Sense Investing“ von John Bogle zeigt dies. Zusammengefasst bedeuten diese Daten, dass die Chancen einen aktiven Manager zu wählen, der den Markt 25 Jahre schlägt, bei weniger als 5% liegen.
