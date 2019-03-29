@@ -9,7 +9,7 @@ intro: Kleine Kosten werden über die Zeit zu großen Summen.
 takeaway: Es ist entscheidend, die Kosten der Investition zu minimieren.
 ---
 
-Die gleiche Zinseszins-Mathematik, die aus kleinen Ersparnisse große Summen macht, wird genauso kleine Kosten in *erstaunlich hohe Verluste über die Zeit* machen.
+Die gleiche Zinseszins-Mathematik, die aus kleinen Ersparnissen große Summen macht, wird über die Zeit kleine Kosten zu *erstaunlich hohen Verlusten* machen.
 
 Fast alle Investitions-Produkte berechnen eine jährliche Verwaltungsgebühr, oft im Bereich von 2%. Zunächst sieht das vernünftig aus—Wenn man schließlich 8% bekommt, ist das Bezahlen von 2% Gebühren kein Problem, oder?
 
