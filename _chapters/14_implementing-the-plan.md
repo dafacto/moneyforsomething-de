@@ -1,27 +1,27 @@
 ---
 layout: chapter
-title: Implementing the plan
+title: Den Plan umsetzen
 chapter: 14
 permalink: /book/implementing-the-plan/
 img_header: header-14.png
 img_footer: summary-14.png
-intro: Here’s all you need to get started.
-takeaway: Open an account at a discount brokerage and start investing in the ETFs corresponding to your asset allocation.
+intro: Hier ist alles, damit du anfangen kannst.
+takeaway: Öffne ein Konto bei einem günstigen Online-Broker und fange an entsprechend deiner gewählten Portfolio-Struktur in ETFs zu investieren. 
 ---
 
-We’re now ready to invest! How do we get started? It’s easy—the strategy outlined in this guide can be fully implemented through a common online brokerage account.
+Wir können jetzt anfangen zu Investieren! Wie fangen wir an? Es ist einfach—Die in diesem Ratgeber dargestellte Strategie kann einfach mit einem normalen Online-Broker umgesetzt werden.
 
-Wheter you’re in the United States or outside, there’s no shortage of good-quality, online, discount brokerages available, several of which are listed in the [brokerages](/brokerages/) section of this website.
+Ob du in den USA oder außerhalb (wie in Deutschland) lebst, gibt es keinen Mangel an guten und günstigen Online-Brokern. Einige sind unter [brokerages](/brokerages/) auf dieser Webseite gelistet.
 
-Once your online brokerage account is setup, you then deposit funds by making a transfer from a linked bank, or sending in a check. Once funded, you can buy and sell securities which trade on the various stock markets. As you know by now, we’ll be using the brokerage to buy and sell ETFs. Buying is literally as simple as entering the ETF symbol and number of shares you want to buy, and clicking the “Buy” button.
+Wenn das Broker-Konto eingerichtet ist, transferriest du Geld per Überweisung von deiner Bank auf dieses Konto. Dann kannst du schon Wertpapiere auf diversen Aktienmärkten kaufen und verkaufen. Wir werden diese Broker dazu benutzen ETFs zu kaufen und zu verkaufen. Der Kaufvorgang ist dann nur das Eingeben der ETF-Bezeichnung und die Anzahl der Anteile, die du kaufen möchtest, und das Klicken des "Kaufen"-Buttons.
 
-## Which ETFs should I purchase?
+## Welche ETFs soll ich kaufen?
 
-Earlier, we suggested two conservative asset allocations. The following is a list of specific ETFs you can buy to implement those allocations. (Remember, we provide additional options in the [portfolios](/portfolios/) section.)
+In vorherigen Kapiteln haben wir zwei konservative Anlage-Aufteilungen vorgeschlagen. Folgend kommt eine Liste von spezifischen ETFs, die du kaufen kannst, um dieser Aufteilung umszusetzen. (Für zusätzliche Optionen, kannst du unter [portfolios](/portfolios/) nachschauen.)
 
-### Option 1: The Classic
+### Option 1: Der Klassiker
 
-This simple allocation involves buying three ETFs.
+Diese einfache Verteilung beeinhaltet drei ETFs.
 
 | Investment Product                        | Symbol | Allocation | Cost  |
 |-------------------------------------------|--------|------------|-------|
