@@ -11,7 +11,7 @@ takeaway: Öffne ein Konto bei einem günstigen Online-Broker und fange an entsp
 
 Wir können jetzt anfangen zu Investieren! Wie fangen wir an? Es ist einfach—Die in diesem Ratgeber dargestellte Strategie kann einfach mit einem normalen Online-Broker umgesetzt werden.
 
-Ob du in den USA oder außerhalb (wie in Deutschland) lebst, gibt es keinen Mangel an guten und günstigen Online-Brokern. Einige sind unter [brokerages](/brokerages/) auf dieser Webseite gelistet.
+Ob du in den USA oder außerhalb (wie in Deutschland) lebst, gibt es keinen Mangel an guten und günstigen Online-Brokern. Einige sind unter [Broker](/brokerages/) auf dieser Webseite gelistet.
 
 Wenn das Broker-Konto eingerichtet ist, transferriest du Geld per Überweisung von deiner Bank auf dieses Konto. Dann kannst du schon Wertpapiere auf diversen Aktienmärkten kaufen und verkaufen. Wir werden diese Broker dazu benutzen ETFs zu kaufen und zu verkaufen. Der Kaufvorgang ist dann nur das Eingeben der ETF-Bezeichnung und die Anzahl der Anteile, die du kaufen möchtest, und das Klicken des "Kaufen"-Buttons.
 
