@@ -17,7 +17,7 @@ Wenn das Broker-Konto eingerichtet ist, transferriest du Geld per Überweisung v
 
 ## Welche ETFs soll ich kaufen?
 
-In vorherigen Kapiteln haben wir zwei konservative Anlage-Aufteilungen vorgeschlagen. Folgend kommt eine Liste von spezifischen ETFs, die du kaufen kannst, um dieser Aufteilung umszusetzen. (Für zusätzliche Optionen, kannst du unter [portfolios](/portfolios/) nachschauen.)
+In vorherigen Kapiteln haben wir zwei konservative Anlage-Aufteilungen vorgeschlagen. Folgend kommt eine Liste von spezifischen ETFs, die du kaufen kannst, um dieser Aufteilung umszusetzen. (Für zusätzliche Optionen, kannst du unter [Portfolios](/portfolios/) nachschauen.)
 
 ### Option 1: Der Klassiker
 
@@ -67,14 +67,14 @@ Alle oben vorgeschlagengen ETFs werden auf amerikanischen Börsen gekauft und ve
 Schließlich sind noch die Erbschaftssteuern relevant, wenn man ausserhalb der USA wohnt. Wenn ein Nichtamerikaner stirbt, kann die USA bis zu 40% Erbschaftssteuer berechnen auf Anlagen, die als in den USA "verortet" gelten. Stelle dir vor du hast ein Broker-Konto, dass in den USA geführt wird, in dem du in ETFs investierst, die von der US-basierten Firma Vanguard verkauft werden, die aber exklusiv in Nicht-USA Unternehmen investieren. Würde dann deine Investition als "verortet" in den USA gelten?
 
 Es zeigt sich, dass die Antwort Ja ist. Der bestimmende Faktor ist die Lage des ETF. Und das ist in diesem Fall die USA—und nicht die Wertanlagen, die zu dem ETF gehören.
-Ein Nichtamerikaner, der USA-Erbschaftssteuer vermeiden möchte, sollte daher in ETFs investieren, die nicht in den USA gelistet sind. Glücklicherweise hat eine der größten ETF-Unternehmen, iShares, eine reichliche Auswahl an ETFs, die in Irland gelistet sind. Diese können über die meisten europäischen Börsen gekauft werden. Ein Musterportfolio, das auf nicht-USA gelisteten ETFs basiert, ist unter [portfolios](/portfolios/) aufgeführt.
+Ein Nichtamerikaner, der USA-Erbschaftssteuer vermeiden möchte, sollte daher in ETFs investieren, die nicht in den USA gelistet sind. Glücklicherweise hat eine der größten ETF-Unternehmen, iShares, eine reichliche Auswahl an ETFs, die in Irland gelistet sind. Diese können über die meisten europäischen Börsen gekauft werden. Ein Musterportfolio, das auf nicht-USA gelisteten ETFs basiert, ist unter [Portfolios](/portfolios/) aufgeführt.
 
 ## Der Schritt-für-Schritt Prozess
 
 Hier ist zusammengefasst, wie der Plan implementiert wird:
 
-1. Eröffne ein Konto bei einem günstigen Broker ([brokerage](/brokerages/)).
-2. Kaufe die individuellen ETFs, die zu dem Portfolio passen, dass du dir ausgesucht hast ([asset allocation](/portfolios/)).
+1. Eröffne ein Konto bei einem günstigen [Broker](/brokerages/).
+2. Kaufe die individuellen ETFs, die zu der [Anlage-Verteilung](/portfolios/) passen, dass du dir ausgesucht hast.
 3. Spare jeden Monat so viel wie möglich und kaufe damit weitere Anteile dieser ETFs.
 4. Schaue regelmäßig nach, ob eine Umschichtung für deine Aufteilung notwendig ist. Wenn es so ist, kaufe und/oder verkaufe die notwendigen Anteile, um deine Aufteilung wieder zu deinem Ziel zurück zu bringen.
 
