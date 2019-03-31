@@ -12,6 +12,7 @@ title: Brokerages
 {% endfor %}
 
 **Editieren**
+
 Speziell für Deutschland gibe es z.b. noch als reine Online Broker:
 
 - die Onvista Bank (https://www.onvista-bank.de/)
