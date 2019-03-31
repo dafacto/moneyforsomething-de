@@ -23,7 +23,7 @@ In vorherigen Kapiteln haben wir zwei konservative Anlage-Aufteilungen vorgeschl
 
 Diese einfache Verteilung beeinhaltet drei ETFs.
 
-| Investment Product                        | Symbol | Allocation | Cost  |
+| Investitions-Produkt                      | Bezeichnung | Anteil | Kosten  |
 |-------------------------------------------|--------|------------|-------|
 | {{ site.data.etfs.vti.name }} | [{{ site.data.etfs.vti.symbol }}]({{ site.data.etfs.vti.url }}) | 25% | {{ site.data.etfs.vti.cost }} |
 | {{ site.data.etfs.vxus.name }} | [{{ site.data.etfs.vxus.symbol }}]({{ site.data.etfs.vxus.url }}) | 25% | {{ site.data.etfs.vxus.cost }} |
@@ -33,7 +33,7 @@ Diese einfache Verteilung beeinhaltet drei ETFs.
 
 The allocation in which I personally invest, called “The Golden Butterfly” involves buying five ETFs.
 
-| Investment Product                    | Symbol | Allocation | Cost  |
+| Investitions-Produkt                  | Bezeichnung | Anteil | Kosten  |
 |---------------------------------------|--------|------------|-------|
 | {{ site.data.etfs.vv.name }} | [{{ site.data.etfs.vv.symbol }}]({{ site.data.etfs.vv.url }}) | 20% | {{ site.data.etfs.vv.cost }} |
 | {{ site.data.etfs.vbr.name }} | [{{ site.data.etfs.vbr.symbol }}]({{ site.data.etfs.vbr.url }}) | 20% | {{ site.data.etfs.vbr.cost }} |
