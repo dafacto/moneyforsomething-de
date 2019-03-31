@@ -23,17 +23,17 @@ In vorherigen Kapiteln haben wir zwei konservative Anlage-Aufteilungen vorgeschl
 
 Diese einfache Verteilung beeinhaltet drei ETFs.
 
-| Investitions-Produkt                      | Bezeichnung | Anteil | Kosten  |
+| Investitions-Produkt                      | Symbol | Anteil     | Kosten|
 |-------------------------------------------|--------|------------|-------|
 | {{ site.data.etfs.vti.name }} | [{{ site.data.etfs.vti.symbol }}]({{ site.data.etfs.vti.url }}) | 25% | {{ site.data.etfs.vti.cost }} |
 | {{ site.data.etfs.vxus.name }} | [{{ site.data.etfs.vxus.symbol }}]({{ site.data.etfs.vxus.url }}) | 25% | {{ site.data.etfs.vxus.cost }} |
 | {{ site.data.etfs.bnd.name }} | [{{ site.data.etfs.bnd.symbol }}]({{ site.data.etfs.bnd.url }}) | 50% | {{ site.data.etfs.bnd.cost }} |
 
-### Option 2: What I do
+### Option 2: Was ich mache
 
-The allocation in which I personally invest, called “The Golden Butterfly” involves buying five ETFs.
+Die Aufteilung in der ich persönlich investiere nennt sich "The Golden Butterfly" und beeinhaltet fünf ETFs.
 
-| Investitions-Produkt                  | Bezeichnung | Anteil | Kosten  |
+| Investitions-Produkt                  | Symbol | Anteil     | Kosten|
 |---------------------------------------|--------|------------|-------|
 | {{ site.data.etfs.vv.name }} | [{{ site.data.etfs.vv.symbol }}]({{ site.data.etfs.vv.url }}) | 20% | {{ site.data.etfs.vv.cost }} |
 | {{ site.data.etfs.vbr.name }} | [{{ site.data.etfs.vbr.symbol }}]({{ site.data.etfs.vbr.url }}) | 20% | {{ site.data.etfs.vbr.cost }} |
@@ -42,40 +42,40 @@ The allocation in which I personally invest, called “The Golden Butterfly” i
 | {{ site.data.etfs.shv.name }} | [{{ site.data.etfs.shv.symbol }}]({{ site.data.etfs.shv.url }}) | 20% | {{ site.data.etfs.shv.cost }} |
 
 
-## Why these particular ETFs?
+## Warum diese bestimmten ETFs?
 
-I’ve suggested ETFs issued primarily by Vanguard and iShares for two reasons. First, they are among the largest issuers, which in itself provides for some security. At present, over $21 billion are invested in Vanguard’s VTI ETF. Secondly, they are among the cheapest; for example, the Vanguard VTI ETF costs only {{ site.data.etfs.vti.cost }} per year.
+Ich habe hauptsächlich ETFs von Vanguard und iShares vorgeschlagen. Dies aus zwei Gründen. Erstens sind diese unter den größten Herausgebern, was zu einer gewissen Sicherheit führt. Im Moment sind mehr als 21 Billionen USD in Vanguards VTU ETF investiert. Zweites sind diese mit die billigsten ETFs. So kostet der Vanguard VTI ETF nur {{ site.data.etfs.vti.cost }} pro Jahr.
 
-## What if you live outside the United States?
+## Was ist wenn du ausserhalb der USA wohnst?
 
-There are three considerations—currency, the stock exchange and estate taxes.
+Dann gibt es drei Aspekte—Währung, die Börse und Erbschaftssteuer.
 
-### 1. Currency
+### 1. Währung
 
-This guide focuses on principles that are objective, universal and time-tested. Currency selection, however, can be a matter of opinion, so I’ll just tell you my personal thoughts, relevant to my own asset allocation. 
+Dieser Ratgeber fokussiert sich auf objektive, universelle und durch die Zeit getestete Prinzipien. Währungsauswahl kann jedoch eine Ansichtssache sein. Deshalb erzähle ich hier von meinen persönichen Gedanken, die abhängig von meiner eigenen Portfolio-Strukturierung sind.
 
-The Golden Butterfly portfolio includes US stocks and bonds, and I've chosen not to experiment with how the portfolio will perform with global stocks against US bonds. (And in terms of 20+ year duration bonds, the US long-bond is the only game in town.) That said, many of the largest American companies represented in those stocks have worldwide operations, and so I do indirectly have global exposure. And gold, of course, is currency agnostic.
+Das Golden Butterfly Portfolio beeinhaltet Aktien und Anleihen aus den USA. Ich habe mich entschieden nicht mit anderern globalen Portfolios zu experimentieren, um zu sehen, wie globale Aktien gegen US-Anleihen laufen. (Und bei Anleihen mit Laufzeiten über 20 Jahren gibt es auch nichts als die US-Anleihen). Dazu kommt auch, dass viele der großen amerikanischen Unternehmen in den gewählten Aktien weltweit agieren. So habe ich mit diesen Aktien auch weltweite Einflüsse. Gold ist per se währungsunabhängig.
 
-### 2. Stock exchange
+### 2. Börse
 
-The second issue relevant to those living outside the United States is the stock exchange on which your ETFs are bought and sold.
+Relevant für Jemand der ausserhalb der USA lebt, sind die handelnden Börsen an denen die ETFs gekauft und verkauft werden.
 
-All of the ETFs recommended above are bought and sold on the American stock exchanges. A brokerage in Spain, however, will likely apply a lower transaction charge for ETFs sold on the Madrid or Irish exchange, as opposed to ETFs sold on the American exchange.
+Alle oben vorgeschlagengen ETFs werden auf amerikanischen Börsen gekauft und verkauft. Ein Broker in Deutschland kann möglicherweise geringere Transaktionsgebühren erheben für ETFs, die auf der Börse in Frankfurt oder Irland gehandelt werden, als für ETFs, die an einer amerikanischen Börse gehandelt werden.
 
-### 3. Estate taxes
+### 3. Erbschaftssteuer
 
-The final issue relevant to those living outside the United States is estate taxes. When a non-US person dies, the United States will charge up to 40% estate tax on any assets owned by the deceased which are considered to be “situated” in the United States. Imagine you owned a US-based brokerage account, in which you invested in ETFs sold by US-based Vanguard, but which invested exclusively in non-US companies. Would your investments be considered “US situated”?
+Schließlich sind noch die Erbschaftssteuern relevant, wenn man ausserhalb der USA wohnt. Wenn ein Nichtamerikaner stirbt, kann die USA bis zu 40% Erbschaftssteuer berechnen auf Anlagen, die als in den USA "verortet" gelten. Stelle dir vor du hast ein Broker-Konto, dass in den USA geführt wird, in dem du in ETFs investierst, die von der US-basierten Firma Vanguard verkauft werden, die aber exklusiv in Nicht-USA Unternehmen investieren. Würde dann deine Investition als "verortet" in den USA gelten?
 
-Turns out the answer is yes; the determining factor is the location of the ETF itself—which in this case is the United States—and not the securities owned by the ETF.
-A non-US person wishing to avoid US estate tax on their investments should therefore invest in non-US-listed ETFs. Fortunately, one of the largest ETF companies, iShares, has an ample range of ETF listed in Ireland, which can be purchased on most European exchanges. A sample portfolio based on non-US listed ETFs can be found in the [portfolios](/portfolios/) section of this site.
+Es zeigt sich, dass die Antwort Ja ist. Der bestimmende Faktor ist die Lage des ETF. Und das ist in diesem Fall die USA—und nicht die Wertanlagen, die zu dem ETF gehören.
+Ein Nichtamerikaner, der USA-Erbschaftssteuer vermeiden möchte, sollte daher in ETFs investieren, die nicht in den USA gelistet sind. Glücklicherweise hat eine der größten ETF-Unternehmen, iShares, eine reichliche Auswahl an ETFs, die in Irland gelistet sind. Diese können über die meisten europäischen Börsen gekauft werden. Ein Musterportfolio, das auf nicht-USA gelisteten ETFs basiert, ist unter [portfolios](/portfolios/) aufgeführt.
 
-## The step-by-step process
+## Der Schritt-für-Schritt Prozess
 
-Summarizing, here’s how you implement the plan:
+Hier ist zusammengefasst, wie der Plan implementiert wird:
 
-1. Open an account at a discount [brokerage](/brokerages/).
-2. Buy the individual ETFs corresponding to the [asset allocation](/portfolios/) you’ve chosen.
-3. Save as much as you can each month, purchasing additional shares of those ETFs.
-4. Periodically check whether your allocation needs rebalancing, and if so, buy and/or sell the shares necessary to bring it back to its target.
+1. Eröffne ein Konto bei einem günstigen Broker ([brokerage](/brokerages/)).
+2. Kaufe die individuellen ETFs, die zu dem Portfolio passen, dass du dir ausgesucht hast ([asset allocation](/portfolios/)).
+3. Spare jeden Monat so viel wie möglich und kaufe damit weitere Anteile dieser ETFs.
+4. Schaue regelmäßig nach, ob eine Umschichtung für deine Aufteilung notwendig ist. Wenn es so ist, kaufe und/oder verkaufe die notwendigen Anteile, um deine Aufteilung wieder zu deinem Ziel zurück zu bringen.
 
-*Simple. Easy. Powerful.*
+*Einfach. Leicht. Mächtig*
