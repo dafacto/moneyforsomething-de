@@ -1,24 +1,24 @@
 ---
 layout: chapter
-title: Stay the course
+title: Bleib auf dem Kurs
 chapter: 15
 permalink: /book/stay-the-course/
 img_header: header-15.png
 img_footer: summary-15.png
-intro: Don’t be your own worst enemy. Ignore the market noise.
-takeaway: Always remember to stay the course!
+intro: Sei nicht dein größter Gegner. Ignoriere den Markt-Lärm.
+takeaway: Denk daran auf Kurs zu bleiben!
 ---
 
-To achieve the benefits of investing requires sticking with your plan over a long period of time. Tragically, many—if not most—people fail to stay the course. Let’s look at some of the common pitfalls.
+Um den Nutzen des Investierens zu erhalten, ist es notwendig über eine lange Zeit bei deinem Plan zu bleiben. Tragischweise schaffen es viele—oder sogar die meisten—Leute nicht auf Kurs zu bleiben. Schauen wir uns die häufigsten Gefahren an.
 
-The most glaring problem is usually *lack of discipline*. 
+Das größte Problem ist normalerweise *Mangel an Disziplin*.
 
-When you’re young, and life seems so long, it can be hard to forego current consumption in the interest of rewards that appear so far into the future. We often fail to recognize the slippery slope of saying, “I’ll skip this month’s investment” or “I’ll take out just a bit to pay for that vacation” Five years pass, and you realize that you’ve hardly begun. For more on this, see “[What happens when you don’t stay the course](/blog/what-happens-when-you-dont-stay-the-course/)” in the blog.
+Wenn du jung bist scheint das Leben so lang zu sein. Es kann hart sein auf Konsum zu verzichten für Gewinne, die so weit in der Zukunft erscheinen. Oft schaffen wir es nicht gefährliche Aussagen wie „Ich lass nur die Investition diesen Monat aus“ oder „Ich nehm nur etwas raus für den Urlaub“ in ihrer Konsequenz zu erkennen. Fünf Jahre später fällt uns dann auf, dass wir kaum angefangen haben. Für mehr dazu, schau dir den Blogartikel “[What happens when you don’t stay the course](/blog/what-happens-when-you-dont-stay-the-course/)” an.
 
-Some less obvious pitfalls include our *sensitivity to recent news and events* and our tendency to heed the *advice of those who appear to be experts*.
+Einige weniger offensichtliche Gefahren sind unsere *Empfänglichkeit für aktuelle Nachrichten und Ereignisse* und unsere Neigung auf den *Rat der vermeintlichen Experten* zu hören.
 
-Over a 20 year period, you are almost guaranteed to experience *market bubbles* in which speculators are making more money than you. And you’ll experience *market crashes* in which you’ll question whether you should have ever started investing in the first place.
+Über einen Zeitraum von 20 Jahren kann man fast garantiert davon ausgehen *Marktblasen* zu erleben, in denen Spekulanten mehr Geld machen als du. Du wirst auch *Marktabstürze* erleben, in denen du dich fragst, warum du überhaupt mit dem Investieren angefangen hast. 
 
-You will hear experts warning of the pending doom of your asset classes, and talking about exotic investments poised to explode in growth. You will hear experts proposing allocations far better than your own. And they will sound so convincing!
+Experten werden dich vor dem ausstehenden Untergang von deinen Anlageklassen warnen. Sie werden von exotischen Investitionen sprechen, die nur darauf warten explosionsartig zu wachsen. Die Experten werden auch Portfolio-Strukturen vorschlagen, die so viel besser klingen als deine. Und das alles wird so überzeugend klingen!
 
-Remember that nobody can beat the market in the long run. Remember that in the long run it’s far better to stick to an allocation, than to have chosen the perfect one. Remember that those attractive performance charts you saw earlier in this guide include several dramatic market crashes over the decades. And remember that the rewards for your long-term discipline can be life changing.
+Aber denk daran, dass Niemand den Markt auf lange Sicht schlagen kann. Denk daran, dass es besser ist auf lange Sicht zu einer Anlage-Verteilung zu stehen, als die Perfekte ausgewählt zu haben. Denk daran, dass die Abbildungen in vorherigen Kapiteln dieses Ratgebers mit attraktiven Entwicklungen mehrere dramatische Marktabstürze über die Jahrzehnte beinhalten. Und denk daran, dass die Belohnung für deine Langzeit-Disziplin lebensverändernd sein kann.
