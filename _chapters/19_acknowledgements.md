@@ -1,11 +1,11 @@
 ---
 layout: chapter
-title: Acknowledgements
+title: Danksagungen
 chapter: 19
 permalink: /book/acknowledgements/
 img_header: header-21.png
 img_footer:
-intro: Thanks to the people who helped tremendously in bringing this guide from idea to reality.
+intro: Vielen Dank an die Leute, die geholfen haben diesen Ratgeber zu realisieren.
 ---
 
-I’d like to thank my colleagues at Makalu, Alex Bendiken and Justin Driscoll, for their collaboration. I’d also like to thank a number of individuals who graciously volunteered their time to read and provide feedback on draft versions of the book: Philip Guo, David Heinemeier Hansson, Justin Miller, Mike Rohde, Craig Rowland, Andy Rutledge, Ryan Singer, Derek Sivers, Michael Tsai, and my loving mother, Jean Henderson.
+Ich möchte mich bei meinen Kollegen von Makalu, Alex Bendiken und Justin Driscoll für ihre Mitarbeit bedanken. Dazu möchte ich bei vielen Personen bedanken, die freundlicherweise Entwürfe gegengelesen haben und Feedback gegeben haben: Philip Guo, David Heinemeier Hansson, Justin Miller, Mike Rohde, Craig Rowland, Andy Rutledge, Ryan Singer, Derek Sivers, Michael Tsai, und meine liebe Mutter, Jean Henderson.
