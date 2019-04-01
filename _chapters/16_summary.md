@@ -1,33 +1,33 @@
 ---
 layout: chapter
-title: What we’ve learned
+title: Was wir gelernt haben
 chapter: 16
 permalink: /book/summary/
 img_header: header-16.png
 img_footer:
-intro: Twelve important lessons that can change your life.
+intro: Zwölf wichtige Lehren, die dein Leben verändern können.
 ---
 
-1. **Defining financial freedom** — We can think about financial freedom in terms of the amount of savings we need to provide the income to pay our expenses. We learned a rule of thumb that if we withdraw no more than 4% of our savings per year, we’re likely to never run out of money. Based on that rule, and our annual needs, we can determine the level of savings corresponding to our own personal financial freedom.
+1. **Die Definition von finanzieller Freiheit** — Finanzielle Freiheit können wir als Menge an Ersparnissen definieren, die uns ein Einkommen generiert mit dem wir unsere Ausgaben bezahlen können. In einer einfachen Regel haben wir gelernt, dass wenn wir nie mehr als 4% pro Jahr unserer Ersparnisse ausgeben, wir wahrscheinlich nie ohne Geld dastehen. Basierend auf dieser Regel und unseren jährlichen Ausgaben können wir die Menge an Ersparnissen bestimmen, die für uns eine persönliche finanzielle Freiheit bedeuten.
 
-2. **The power of compounding returns** — We learned that the math of compounding returns provides the power to turn small savings, over time, into surprisingly large sums. This power is available to everyone.
+2. **Die Macht des Zinseszins** — Wir haben gelernt, dass die Mathematik des Zinseszins die Macht hat kleine Erträge über die Zeit zu erstaunlich großen Beträgen wachsen zu lassen. Diese Macht ist für Jeden verfügbar.
 
-3. **The tyranny of costs** — We learned that the same math turns seemingly small costs into large costs over time. We need to minimize the cost of investing.
+3. **Die Gewalt der Kosten** — Wir haben gelernt, dass die gleiche Mathematik aus vermeintlich kleinen Kosten über die Zeit große Kosten macht. Diese Investitions-Kosten müssen wir minimieren.
 
-4. **The importance of earning a good return**  — We learned that compounding math is very sensitive to the annual rate of return. Earning 8% annually makes a huge difference over time, compared to 3%. We should be investing, not keeping our savings in a bank account.
+4. **Die Notwendigkeit eine gute Rendite zu bekommen** — Wir haben gelernt, dass der Zinseszins sehr sensibel auf die Rendite reagiert. Eine Rendite von 8% macht über die Jahre einen enormen Unterschied zu 3% Rendite. Daher sollten wir investieren und unser Geld nicht auf dem Bankkonto lassen.
 
-5. **Risk and return are related** — We learned that in seeking a higher return, we must be willing to take on risk, and that this is a fundamental, inescapable truth.
+5. **Risiko und Rendite sind verbunden** — Wir haben gelernt, dass wir bei einer höheren Rendite ein höheres Risiko akzeptieren müssen. Und das ist eine fundamentale, unausweichliche Wahrheit.
 
-6. **The importance of time** — We learned that holding a risky investment for a long period of time reduces the chances of a poor outcome.
+6. **Die Wichtigkeit der Zeit** — Wir haben gelernt, dass das Halten einer riskanten Investition für eine lange Zeit die Wahrscheinlichkeit eines schlechten Ergebnisses reduziert.
 
-7. **The benefits of diversification** — We learned that mixing unrelated investments—i.e. diversifying—both reduces overall volatility (riskiness) and increases return.
+7. **Die Vorteile der Diversifikation** — Wir haben gelernt, dass das Mischen unabhängiger Investitionen—d.h. diversifizieren—die  Gesamtvolatilität (Risiko) senkt und gleichzeitig die Rendite erhöht.
 
-8. **Long term performance is driven by asset allocation** — We learned that our choice of asset allocation will be the dominant influence in long term returns. We also learned that it’s far more important to stick to an asset allocation than to have chosen the perfect one in the first place. We saw two examples of conservative allocations.
+8. **Lanfristige Leistung hängt von der Anlagen-Verteilung ab** — Wir haben gelernt, dass die Wahl unserer Anlagen-Verteilung der dominante Einfluß für eine langfristige Rendite ist. Wir haben auch gelernt, dass es wichtiger ist bei einer Verteilung zu bleiben, als am Anfang die optimale Verteilung gewählt zu haben. Zwei Beispiele einer konservativen Verteilung haben wir uns angeschaut.
 
-9. **The benefits of rebalancing** — We learned that rebalancing involves selling what has done well and buying more of what hasn’t, in order to maintain our target asset allocation. We learned that this keeps our risk exposure consistent over time and increases returns.
+9. **Die Vorteile des Umschichtens** — Wir haben gelernt, dass Umschichten bedeutet zu verkaufen was gut lief und kaufen was schlecht lief. So behalten wir unsere Anlagen-Verteilung. Wir haben gelernt, dass dies unsere Risikogefahr konstant hält und Renditen erhöht.
 
-10. **Nobody can beat the market** — We learned that in the long term, few can beat the market, and so we should invest passively in entire markets.
+10. **Niemand kann den Markt schlagen** — Wir haben gelernt, dass langfristig nur Wenige den Markt schlagen. Deshalb sollten wir passiv in ganze Märkte investieren.
 
-11. **Implement your plan with ETFs** — Pulling it all together, we learned that Exchange Traded Funds (ETFs) are convenient and economical investment products, purchasable through a common brokerage account allowing us to implement a long term, passive, low cost investment plan.
+11. **Setz den Plan mit ETFs um** — Zusammengefasst haben wir gelernt, dass börsennotierte Fonds oder ETFs ein praktisches und ökonomisches Investitions-Produkt sind, die man über gewöhnliche Broker-Konten kaufen kann. So können wir einen langfristigen, passiven und günstigen Investitionsplan umsetzen.
 
-12. **Stay the course** — Don’t be your own worst enemy. Ignore the market noise. Remember you’re in it for the long-term. Stay the course!
+12. **Bleib auf dem Kurs** — Sei nicht dein schlimmster Feind. Ignoriere den Lärm des Marktes. Denk daran, dass du langfristig dabei bist. Bleib auf dem Kurs!
