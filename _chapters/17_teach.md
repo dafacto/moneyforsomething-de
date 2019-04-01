@@ -1,17 +1,17 @@
 ---
 layout: chapter
-title: Teach a man to fish
+title: Lehre einen Mann zu fischen
 chapter: 17
 permalink: /book/teach/
 img_header: header-18.png
 img_footer:
-intro: Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime. <small>— Chinese proverb</small>
+intro: Gib einem Mann einen Fisch und du ernährst ihn für einen Tag. Lehre einen Mann zu fischen und du ernährst ihn für sein Leben. <small>— Chinesisches Sprichwort</small>
 ---
 
-Through this book,  I hope I’ve motivated you, wherever you live, to take action and start a program of personal investment today. It could be one of the most important decisions you ever make—it certainly was for me! 
+Ich hoffe ich konnte dich durch dieses Buch motivieren ins handeln zu kommen und dein persönliches Investitionsprogramm zu starten – egal wo du lebst. Es könnte eine der wichtigsten Entscheidungen sein, die du jemals machst—Für mich war es das!
 
-If you’ve gotten any value from the book, the one thing I ask is that you **share it with someone**, perhaps by email or a post on social media. Given the life-changing potential of long-term investing, even for those with modest incomes, it’s nearly tragic that these principles aren’t taught to young people in schools. So it’s up to us—you and I—to spread the word!
+Wenn du irgendetwas aus diesem Buch mitnimmst, würde ich mich freuen, wenn du es **mit jemanden teilst**, vielleicht per Email oder einen Social-Media-Post. In Anbetracht des lebensverändernden Potentials des langfristigen Investierens, auch bei einem kleinen Einkomen, ist es fast tragisch, dass diese Prinzipien nicht in der Schule vermittelt werden. So ist es an uns—Du und ich—die Nachricht in die Welt zu tragen!
 
-Finally, if you have questions, or just want to say hello, [I’d love to hear from you](/contact/).
+Wenn du Fragen hast oder einfach nur Hallo sagen möchtest, [freue ich mich von dir zu hören](/contact/).
 
-Good luck, and I wish you the best!
+Alles Gute, ich wünsche dir das Beste!
