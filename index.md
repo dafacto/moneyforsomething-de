@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Money for Something
-intro: Achieve financial independence through investing
+intro: Finanzielle Freiheit durch Investieren erreichen
 ---
 
-In less than an hour, I will teach you the one approach to investing and wealth generation that has reliably worked for generations. When finished, you’ll have everything you need—including details of my own portfolio—to start down the path to financial freedom.
+In weniger als einer Stunde werde ich dir einen Weg des Investierens und des Schaffens von Wohlstand zeigen, der zuverlässig für Generationen funktioniert hat. Nach dem Lesen wirst du alles haben—inklusive Details meines Portfolios—um den Weg in die finanzielle Freitheit zu gehen.
 
-In addition to the book, you’ll also find information about [myself and the history of the project](/about/), testimonials from people like [Derek Sivers and David Heinemeier Hansson](/praise/), recommended [brokerages](/brokerages/), [books & podcasts](/books/), a [blog](/blog/), example [portfolios](/portfolios/), and an [investment calculator](/calculator/).
+Zusätzlich zu diesem Buch, findest du hier auch Informationen [über mich und die Geschichte des Projektes](/about/), Empfehlungen z.B. von [Derek Sivers und David Heinemeier Hansson](/praise/), vorgeschlagene [Broker](/brokerages/), [Bücher & Podcasts](/books/), ein [Blog](/blog/), Beispiel[portfolios](/portfolios/), und ein [Investitions-Rechner](/calculator/).
