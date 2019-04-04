@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /brokerages/
-title: Brokerages
+title: Broker
 ---
 
 {% for brokerage in site.data.brokerages %}
@@ -10,8 +10,6 @@ title: Brokerages
 {{ brokerage.description }}
 
 {% endfor %}
-
-**Editieren**
 
 Speziell für Deutschland gibe es z.b. noch als reine Online Broker:
 
