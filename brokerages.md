@@ -3,15 +3,15 @@ layout: page
 permalink: /brokerages/
 title: Broker
 ---
-
+<!--
 {% for brokerage in site.data.brokerages %}
 
 <a href="{{ brokerage.url }}"><strong>{{ brokerage.name }}</strong></a> ({{ brokerage.country }})<br>
 {{ brokerage.description }}
 
-{% endfor %}
+{% endfor %}-->
 
-Speziell für Deutschland gibe es z.b. noch als reine Online Broker:
+Speziell für Deutschland gibe es z.b. als reine Online Broker:
 
 - die Onvista Bank (https://www.onvista-bank.de/)
 - Flatex (https://www.flatex.de/)
